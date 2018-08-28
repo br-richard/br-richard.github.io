@@ -1,5 +1,3 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
 entries:
 - title: sidebar
   product: Jekyll Doc Theme
@@ -21,6 +19,44 @@ entries:
 
         - title: Mitteilungen
           url: /albus/mitteilungen.html
+          output: web
+
+  - title: Tag archives2
+    output: web
+    folderitems:
+
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /tag_formatting.html
+          output: web
+
+        - title: Mitteilungen
+          url: /tag_navigation.html
+          output: web
+
+  - title: Tag archives3
+    output: web
+    folderitems:
+
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /tag_formatting.html
+          output: web
+
+        - title: Mitteilungen
+          url: /tag_navigation.html
           output: web
 
   - title: Tag archives

@@ -9,6 +9,11 @@
 {% else %}
 [{{folderitem.url | remove: "/"  | remove: ".html"}}]: {{folderitem.url | remove: "/"}}
 {% endif %}
+{% for subfolders in folderitem.subfolders %}
+{% for subfolderitem in subfolders.subfolderitems %}
+[{{subfolderitem.url | remove: "/"  | remove: ".html"}}]: {{subfolderitem.url | remove: "/"}}
+{% endfor %}
+{% endfor %}
 {% endfor %}
 {% endfor %}
 {% endfor %}

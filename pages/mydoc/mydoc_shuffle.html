@@ -9,17 +9,6 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-
-
-{% if site.output == "pdf" %}
-{{site.data.alerts.note}} The content on this page doesn't display well on PDF, but I included it anyway so you could see the problems this layout poses if you're including it in PDF.  {{site.data.alerts.end}}
-{% endif %}
-
-{% unless site.output == "pdf" %}
-<script src="js/jquery.shuffle.min.js"></script>
-<script src="js/jquery.ba-throttle-debounce.min.js"></script>
-{% endunless %}
-
       <div class="filter-options">
       <button class="btn btn-primary" data-group="all">All</button>
       <button class="btn btn-primary" data-group="getting_started">Getting Started</button>
@@ -158,10 +147,6 @@ folder: mydoc
 
 
     </div><!-- /#grid -->
-
-{% unless site.output == "pdf" %}
-{% include initialize_shuffle.html %}
-{% endunless %}
 
 {{site.data.alerts.note}} This was mostly an experiment to see if I could break away from the hierarchical TOC and provide a different way of arranging the content. However, this layout is somewhat problematic because it doesn't allow you to browse other navigation options on the side while viewing a topic.{{site.data.alerts.end}}
 

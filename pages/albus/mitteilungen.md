@@ -5,7 +5,7 @@ last_updated: July 3, 2016
 tags: [getting_started]
 summary: "I have used this theme for projects that I've worked on as a professional technical writer."
 sidebar: admin_sidebar
-permalink: mitt.html
+permalink: unsere_betreibe/albus/mitteilungen.html
 folder: albus
 ---
 

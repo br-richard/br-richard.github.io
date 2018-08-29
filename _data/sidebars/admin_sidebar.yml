@@ -25,27 +25,6 @@ entries:
           url: /unsere_betreibe/albus/mitteilungen.html
           output: web
 
-  - title: Unsere Betriebe 2
-    output: web
-    folderitems:
-
-    - title:
-      url: /unsere_betreibe.html
-      output: web
-
-      subfolders:
-      - title: Albus
-        output: web
-        subfolderitems:
-
-        - title: Betriebsräte
-          url: /unsere_betreibe/albus/betriebsrate.html
-          output: web
-
-        - title: Mitteilungen
-          url: /unsere_betreibe/albus/mitteilungen.html
-          output: web
-
   - title: Tag archives
     output: web
     folderitems:

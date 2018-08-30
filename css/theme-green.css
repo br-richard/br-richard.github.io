@@ -108,3 +108,9 @@ li.sidebarTitle {
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
     background-color: #E50E51;
 }
+
+.navbar-brand > img {
+    position: relative;
+    max-width: 250px;
+    width: auto;
+}

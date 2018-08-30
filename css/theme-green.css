@@ -114,3 +114,6 @@ li.sidebarTitle {
     max-width: 250px;
     width: auto;
 }
+.navbar-header .fa-home:before {
+    content: ""
+}

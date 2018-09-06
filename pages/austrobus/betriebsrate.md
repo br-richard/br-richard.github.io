@@ -1,3 +1,11 @@
+---
+title: Betriebsräte
+last_updated: July 3, 2016
+sidebar: admin_sidebar
+permalink: unsere_betriebe/austrobus/betriebsrate.html
+folder: austrobus
+---
+
 <tbody><tr>
 		<td width="33%"><img src="/futuretense_cs/Netzwerke/images/1x1.gif" width="1" height="1" alt=""></td>
 		<td width="760">

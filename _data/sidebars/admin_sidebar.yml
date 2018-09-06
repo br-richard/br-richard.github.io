@@ -9,7 +9,7 @@ entries:
     folderitems:
 
     - title: Unsere Betriebe
-      url: /unsere_betreibe.html
+      url: /unsere_betriebe.html
       output: web
 
       subfolders:
@@ -18,11 +18,111 @@ entries:
         subfolderitems:
 
         - title: Betriebsräte
-          url: /unsere_betreibe/albus/betriebsrate.html
+          url: /unsere_betriebe/albus/betriebsrate.html
           output: web
 
         - title: Mitteilungen
-          url: /unsere_betreibe/albus/mitteilungen.html
+          url: /unsere_betriebe/albus/mitteilungen.html
+          output: web
+
+      - title: Austrobus
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/austrobus/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/austrobus/mitteilungen.html
+          output: web
+
+      - title: Dr. Richard
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/dr_richard/betriebsrate.html
+          output: web
+
+        - title: Wichtig
+          url: /unsere_betriebe/dr_richard/wichtig.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/dr_richard/mitteilungen.html
+          output: web
+
+        - title: Standorte
+          url: /unsere_betriebe/dr_richard/standorte.html
+          output: web
+
+      - title: Dr. Richard NÖ
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/dr_richard_noe/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/dr_richard_noe/mitteilungen.html
+          output: web
+
+      - title: Kowatsch
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/kowatsch/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/kowatsch/mitteilungen.html
+          output: web
+
+      - title: Marazeck
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/marazeck/betriebsrate.html
+          output: web
+
+      - title: Salzkraft
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/salzkraft/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/salzkraft/mitteilungen.html
+          output: web
+
+      - title: Südburg
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/suedburg/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/suedburg/mitteilungen.html
+          output: web
+
+      - title: Watzke
+        output: web
+        subfolderitems:
+
+        - title: Betriebsräte
+          url: /unsere_betriebe/watzke/betriebsrate.html
+          output: web
+
+        - title: Mitteilungen
+          url: /unsere_betriebe/watzke/mitteilungen.html
           output: web
 
   - title: Tag archives

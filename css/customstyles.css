@@ -129,7 +129,6 @@ th {
 table {
     max-width: 90%;
     margin-bottom: 20px;
-    border: 1px solid #dedede;
 }
 
 table > thead > tr > th,
@@ -160,8 +159,8 @@ table > thead:first-child > tr:first-child > td {
     border-top: 0;
 }
 
-table > tbody > tr:nth-of-type(odd) {
-    background-color: #f9f9f9;
+.post-content > table tbody tr {
+    border-top: 1px solid #dedede;
 }
 
 table col[class*="col-"] {

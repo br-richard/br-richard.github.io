@@ -139,7 +139,6 @@ table > tfoot > tr > td {
     padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
-    border-top: 1px solid #ddd;
 }
 table > thead > tr > th {
     vertical-align: bottom;
@@ -1196,4 +1195,13 @@ h4.panel-title {
     .collapse.in{
         display:block !important;
     }
+}
+
+.content-container {
+    padding-top: 70px;
+}
+.main-navbar {
+    position: fixed;
+    width: 100%;
+    height: auto;
 }

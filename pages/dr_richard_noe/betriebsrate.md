@@ -5,7 +5,6 @@ sidebar: admin_sidebar
 permalink: unsere_betriebe/dr_richard_noe/betriebsrate.html
 folder: dr_richard_noe
 ---
-
 <table cellpadding="0" cellspacing="0" border="0" summary="">
 <tbody><tr>
      <td valign="top">
@@ -36,18 +35,18 @@ folder: dr_richard_noe
    <br><a href="mailto:rudi.reisinger@aon.at" class="kontaktemail">rudi.reisinger@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.01295804977417  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+    
+    
+    
 
     <tr>
      <td valign="top">
@@ -78,18 +77,18 @@ folder: dr_richard_noe
    <br><a href="mailto:herbert.zeller@aon.at" class="kontaktemail">herbert.zeller@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.01168417930603  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+    
+    
+    
 
     <tr>
      <td valign="top">
@@ -120,18 +119,18 @@ folder: dr_richard_noe
    <br><a href="mailto:locket62@yahoo.de" class="kontaktemail">locket62@yahoo.de</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011704921722412  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+    
+    
+    
 
     <tr>
      <td valign="top">
@@ -162,18 +161,18 @@ folder: dr_richard_noe
    <br><a href="mailto:rgruenberger@aon.at" class="kontaktemail">rgruenberger@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011765003204346  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+    
+    
+    
 
     <tr>
      <td valign="top">
@@ -204,21 +203,14 @@ folder: dr_richard_noe
    <br><a href="mailto:robert.gieler@aon.at" class="kontaktemail">robert.gieler@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011620998382568  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr>
-     <td align="right">
-      <a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=a6aeffb1e12afbfef9f3e760d3ca2da5&amp;L2=2e33fecd5c821f1476a16736735bf9dd&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-      <a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-      
-      
-     </td>
-    </tr>
+
+    
+    
    </tbody></table>

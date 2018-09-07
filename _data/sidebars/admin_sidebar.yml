@@ -8,6 +8,10 @@ entries:
     output: web
     folderitems:
 
+    - title: Unsere Betriebe
+      url: /unsere_betriebe.html
+      output: web
+
       subfolders:
       - title: Albus
         output: web

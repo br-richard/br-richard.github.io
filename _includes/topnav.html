@@ -26,7 +26,7 @@
                 {% elsif page.url contains item.url %}
                 <li class="active"><a href="{{item.url | remove: "/"}}">{{item.title}}</a></li>
                 {% else %}
-                <li><a href="{{ site.url }}/{{item.url}}">{{item.title}}</a></li>
+                <li><a href="{{ site.url }}{{item.url}}">{{item.title}}</a></li>
                 {% endif %}
                 {% endfor %}
                 {% endfor %}

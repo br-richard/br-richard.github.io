@@ -1,10 +1,11 @@
 ---
 title: Kontakt
-last_updated: July 3, 2016
+last_updated: September 10, 2018
 sidebar: admin_sidebar
 permalink: kontakt.html
 folder: topnav
 ---
+
 <table cellpadding="0" cellspacing="0" border="0" summary="">
  <tbody><tr>
   

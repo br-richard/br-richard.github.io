@@ -1,10 +1,11 @@
 ---
 title: Hilfe
-last_updated: July 3, 2016
+last_updated: September 10, 2018
 sidebar: admin_sidebar
 permalink: hilfe.html
 folder: topnav
 ---
+
 <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      

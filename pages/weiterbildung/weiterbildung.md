@@ -1,3 +1,11 @@
+---
+title: Weiterbildung
+last_updated: September 10, 2018
+sidebar: admin_sidebar
+permalink: weiterbildung/weiterbildung.html
+folder: weiterbildung
+---
+
 <tbody><tr>
 		<td width="33%"><img src="/futuretense_cs/Netzwerke/images/1x1.gif" width="1" height="1" alt=""></td>
 		<td width="760">

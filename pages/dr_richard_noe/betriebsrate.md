@@ -1,10 +1,11 @@
 ---
 title: Betriebsräte
-last_updated: July 3, 2016
+last_updated: September 10, 2018
 sidebar: admin_sidebar
 permalink: unsere_betriebe/dr_richard_noe/betriebsrate.html
 folder: dr_richard_noe
 ---
+
 <table cellpadding="0" cellspacing="0" border="0" summary="">
 <tbody><tr>
      <td valign="top">

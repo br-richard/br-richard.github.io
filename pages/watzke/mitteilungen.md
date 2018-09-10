@@ -6,4 +6,4 @@ permalink: unsere_betriebe/watzke/mitteilungen.html
 folder: watzke
 ---
 
-
+Im Moment gibt es keine aktuellen Mitteilungen.

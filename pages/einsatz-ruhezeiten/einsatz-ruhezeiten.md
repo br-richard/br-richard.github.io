@@ -13,7 +13,7 @@ folder: einsatz-ruhezeiten
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Ampel 02.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/einsatz-ruhezeiten/Ampel_02.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -83,7 +83,7 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Auto 13.1.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/einsatz-ruhezeiten/Auto_13.1.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

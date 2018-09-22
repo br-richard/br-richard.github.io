@@ -117,7 +117,7 @@ folder: heiteres
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/00004210.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/00004210.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -292,7 +292,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Ostervorbereitung</h1>
       
       <h3>Na dann sind ja unsere Ostereier wieder gesichert!</h3>
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Osterhase.gif" alt="" border="0"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3"><br>
+      <img src="https://br-richard.github.io/images/heiteres/Osterhase.gif" alt="" border="0"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3"><br>
       
       
 			
@@ -330,7 +330,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/urlaub 113.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/urlaub_113.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -960,7 +960,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/ameise1.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/ameise1.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -1029,7 +1029,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Stern 01.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/Stern_01.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -1098,7 +1098,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Hierachie.jpg" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/Hierachie.jpg" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

@@ -8,7 +8,7 @@ folder: flixbus
 
 <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Fernbus.1.jpg" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/flixbus/Fernbus.1.jpg" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

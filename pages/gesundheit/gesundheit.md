@@ -13,7 +13,7 @@ folder: gesundheit
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/achtung.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/gesundheit/achtung.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -91,7 +91,7 @@ Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/koch_01.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/gesundheit/koch_01.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -163,7 +163,7 @@ Erfahren Sie die schockierende Wahrheit...</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Placeholder.jpg" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/gesundheit/Placeholder.jpg" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -235,7 +235,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Trinken.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/gesundheit/Trinken.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -304,7 +304,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/smiley 03.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/gesundheit/smiley_03.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

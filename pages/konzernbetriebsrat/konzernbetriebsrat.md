@@ -68,7 +68,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Burger 15.1.jpg" alt="Rupert BURGER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Burger_15.1.jpg" alt="Rupert BURGER" border="0">
      
 		 
      </td>
@@ -112,7 +112,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Rom 15.2.jpg" alt="Richard ROM" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Rom_15.2.jpg" alt="Richard ROM" border="0">
      
 		 
      </td>
@@ -156,7 +156,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Stefaner 15.1.jpg" alt="Freimut STEFANER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Stefaner_15.1.jpg" alt="Freimut STEFANER" border="0">
      
 		 
      </td>
@@ -200,7 +200,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/tlacvoda-2 a.1.jpg" alt="Ferdinand TLACVODA" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/tlacvoda-2_a.1.jpg" alt="Ferdinand TLACVODA" border="0">
      
 		 
      </td>
@@ -244,7 +244,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Schmidt.1.jpg" alt="Arnold SCHMIDT" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Schmidt.1.jpg" alt="Arnold SCHMIDT" border="0">
      
 		 
      </td>
@@ -288,7 +288,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Janasek.1.jpg" alt="Eva Maria JANASEK" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Janasek.1.jpg" alt="Eva Maria JANASEK" border="0">
      
 		 
      </td>
@@ -332,7 +332,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/monovic-3 a.2.jpg" alt="Nikola MONOVIC" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/monovic-3_a.2.jpg" alt="Nikola MONOVIC" border="0">
      
 		 
      </td>
@@ -376,7 +376,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/navratek-1a.1.jpg" alt="Günther BAVRATEK" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/navratek-1a.1.jpg" alt="Günther BAVRATEK" border="0">
      
 		 
      </td>
@@ -420,7 +420,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Stueblo 15.1.jpg" alt="Adolf STÜBLO" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Stueblo_15.1.jpg" alt="Adolf STÜBLO" border="0">
      
 		 
      </td>
@@ -464,7 +464,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Reisinger.1.jpg" alt="Rudolf REISINGER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Reisinger.1.jpg" alt="Rudolf REISINGER" border="0">
      
 		 
      </td>
@@ -508,7 +508,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Zeller.4.jpeg" alt="Herbert ZELLER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Zeller.4.jpeg" alt="Herbert ZELLER" border="0">
      
 		 
      </td>
@@ -552,7 +552,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Ignatovic.1.jpg" alt="Vlado IGNATOVIC" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Ignatovic.1.jpg" alt="Vlado IGNATOVIC" border="0">
      
 		 
      </td>
@@ -596,7 +596,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Lazarevic.1.jpg" alt="Mitar LAZAREVIC" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Lazarevic.1.jpg" alt="Mitar LAZAREVIC" border="0">
      
 		 
      </td>
@@ -640,7 +640,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Djokic.1.jpg" alt="Vojislav DJOKIC" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Djokic.1.jpg" alt="Vojislav DJOKIC" border="0">
      
 		 
      </td>
@@ -684,7 +684,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Poeppel.2.JPG" alt="Wolfgang PÖPPEL" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Poeppel.2.JPG" alt="Wolfgang PÖPPEL" border="0">
      
 		 
      </td>
@@ -728,7 +728,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Kassl.3.jpg" alt="Robert KASSL" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Kassl.3.jpg" alt="Robert KASSL" border="0">
      
 		 
      </td>
@@ -772,7 +772,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Mackinger.1.jpg" alt="Josef MACKINGER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Mackinger.1.jpg" alt="Josef MACKINGER" border="0">
      
 		 
      </td>
@@ -816,7 +816,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Pierer.1.jpg" alt="Reinhold PIERER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Pierer.1.jpg" alt="Reinhold PIERER" border="0">
      
 		 
      </td>
@@ -860,7 +860,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Hemmer 01.jpg" alt="Roland HEMMER" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Hemmer_01.jpg" alt="Roland HEMMER" border="0">
      
 		 
      </td>
@@ -904,7 +904,7 @@ folder: konzernbetriebsrat
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Oswald.jpg" alt="Hermann OSWALD" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Oswald.jpg" alt="Hermann OSWALD" border="0">
      
 		 
      </td>
@@ -949,7 +949,7 @@ Ist leider am 17.09.2015 verstorben. +</td>
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Grah.1.jpg" alt="Janez GRAH" border="0">
+     <img src="https://br-richard.github.io/images/konzernbetriebsrat/Grah.1.jpg" alt="Janez GRAH" border="0">
      
 		 
      </td>

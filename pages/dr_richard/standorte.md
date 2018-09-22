@@ -9,7 +9,7 @@ folder: dr_richard
 <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Auto 14.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/dr_richard/Auto_14.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

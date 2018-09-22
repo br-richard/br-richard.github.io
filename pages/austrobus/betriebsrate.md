@@ -16,7 +16,7 @@ folder: austrobus
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Ignatovic.jpg" alt="Vlado IGNATOVIC" border="0">
+     <img src="https://br-richard.github.io/images/austrobus/Ignatovic.jpg" alt="Vlado IGNATOVIC" border="0">
      
 		 
      </td>
@@ -58,7 +58,7 @@ folder: austrobus
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Lazarevic 01.jpg" alt="Mitar LAZAREVIC" border="0">
+     <img src="https://br-richard.github.io/images/austrobus/Lazarevic_01.jpg" alt="Mitar LAZAREVIC" border="0">
      
 		 
      </td>
@@ -100,7 +100,7 @@ folder: austrobus
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Firulovic.jpg" alt="Dragisa FIRULOVIC" border="0">
+     <img src="https://br-richard.github.io/images/austrobus/Firulovic.jpg" alt="Dragisa FIRULOVIC" border="0">
      
 		 
      </td>
@@ -142,7 +142,7 @@ folder: austrobus
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Ficulovic.jpg" alt="Nenad FIKULOVIC" border="0">
+     <img src="https://br-richard.github.io/images/austrobus/Ficulovic.jpg" alt="Nenad FIKULOVIC" border="0">
      
 		 
      </td>

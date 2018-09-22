@@ -17,7 +17,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/monovic-3 a.1.jpg" alt="Nikola MONOVIC" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/monovic-3_a.1.jpg" alt="Nikola MONOVIC" border="0">
      
 		 
      </td>
@@ -59,7 +59,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/navratek-1a.jpg" alt="Günther NAVRATEK" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/navratek-1a.jpg" alt="Günther NAVRATEK" border="0">
      
 		 
      </td>
@@ -101,7 +101,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/tlacvoda-2 a.jpg" alt="Ferdinand TLACVODA" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/tlacvoda-2_a.jpg" alt="Ferdinand TLACVODA" border="0">
      
 		 
      </td>
@@ -143,7 +143,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/pfaffenberger-2a.jpg" alt="Bruno PFAFFENBERGER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/pfaffenberger-2a.jpg" alt="Bruno PFAFFENBERGER" border="0">
      
 		 
      </td>
@@ -185,7 +185,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/caliskan-1 a.jpg" alt="Tahsin CALISKAN" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/caliskan-1_a.jpg" alt="Tahsin CALISKAN" border="0">
      
 		 
      </td>
@@ -227,7 +227,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/mijic-2 a.jpg" alt="Perica MIJIC" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/mijic-2_a.jpg" alt="Perica MIJIC" border="0">
      
 		 
      </td>
@@ -269,7 +269,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/redic-1 a.jpg" alt="Radomir REDIC" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/redic-1_a.jpg" alt="Radomir REDIC" border="0">
      
 		 
      </td>
@@ -311,7 +311,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Karle.2.jpg" alt="Thomas KARLE" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/Karle.2.jpg" alt="Thomas KARLE" border="0">
      
 		 
      </td>
@@ -353,7 +353,7 @@ folder: dr_richard
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Braduljevic a.jpg" alt="Ljuba BRADULJEVIC" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard/Braduljevic_a.jpg" alt="Ljuba BRADULJEVIC" border="0">
      
 		 
      </td>

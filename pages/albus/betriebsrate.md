@@ -19,7 +19,7 @@ folder: albus
        <tbody>
        <tr>
         <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="http://netzwerke.oegb.at/br_richard/data/upload/Stefaner 15.jpg" alt="Freimut STEFANER" border="0">
+         <img src="https://br-richard.github.io/images/albus/Stefaner_15.jpg" alt="Freimut STEFANER" border="0">
         </td>
         <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                             height="160"><br></td>
@@ -50,7 +50,7 @@ folder: albus
        <tbody>
        <tr>
         <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="http://netzwerke.oegb.at/br_richard/data/upload/Stueblo 15.jpg" alt="Adolf STÜBLO" border="0">
+         <img src="https://br-richard.github.io/images/albus/Stueblo_15.jpg" alt="Adolf STÜBLO" border="0">
         </td>
         <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                             height="160"><br></td>
@@ -83,7 +83,7 @@ folder: albus
        <tbody>
        <tr>
         <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="http://netzwerke.oegb.at/br_richard/data/upload/Kelemen 15.jpg" alt="Karl Georg KELEMEN" border="0">
+         <img src="https://br-richard.github.io/images/albus/Kelemen_15.jpg" alt="Karl Georg KELEMEN" border="0">
         </td>
         <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
        </tr>
@@ -115,7 +115,7 @@ folder: albus
        <tbody>
        <tr>
         <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="http://netzwerke.oegb.at/br_richard/data/upload/Heuberger 15.jpg" alt="Alois HEUBERGER" border="0">
+         <img src="https://br-richard.github.io/images/albus/Heuberger_15.jpg" alt="Alois HEUBERGER" border="0">
         </td>
         <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                             height="160"><br></td>
@@ -150,7 +150,7 @@ folder: albus
        <tbody>
        <tr>
         <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="http://netzwerke.oegb.at/br_richard/data/upload/Nikolic 15.jpg" alt="Mikica NIKOLIC" border="0">
+         <img src="https://br-richard.github.io/images/albus/Nikolic_15.jpg" alt="Mikica NIKOLIC" border="0">
         </td>
         <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                             height="160"><br></td>

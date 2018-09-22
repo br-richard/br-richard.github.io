@@ -16,7 +16,7 @@ folder: salzkraft
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Schmidt.jpg" alt="Arnold SCHMIDT" border="0">
+     <img src="https://br-richard.github.io/images/salzkraft/Schmidt.jpg" alt="Arnold SCHMIDT" border="0">
      
 		 
      </td>
@@ -58,7 +58,7 @@ folder: salzkraft
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Bretschneider.jpg" alt="Christine BRETSCHNEIDER" border="0">
+     <img src="https://br-richard.github.io/images/salzkraft/Bretschneider.jpg" alt="Christine BRETSCHNEIDER" border="0">
      
 		 
      </td>
@@ -100,7 +100,7 @@ folder: salzkraft
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Weissenbacher.jpg" alt="Matthias WEISSENBACHER" border="0">
+     <img src="https://br-richard.github.io/images/salzkraft/Weissenbacher.jpg" alt="Matthias WEISSENBACHER" border="0">
      
 		 
      </td>

@@ -16,7 +16,7 @@ folder: suedburg
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Pierer.jpg" alt="Reinhold PIERER" border="0">
+     <img src="https://br-richard.github.io/images/suedburg/Pierer.jpg" alt="Reinhold PIERER" border="0">
      
 		 
      </td>
@@ -58,7 +58,7 @@ folder: suedburg
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Hemmer.jpg" alt="Roland HEMMER" border="0">
+     <img src="https://br-richard.github.io/images/suedburg/Hemmer.jpg" alt="Roland HEMMER" border="0">
      
 		 
      </td>

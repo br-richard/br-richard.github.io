@@ -16,7 +16,7 @@ folder: watzke
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Burger 15.jpg" alt="Rupert BURGER" border="0">
+     <img src="https://br-richard.github.io/images/watzke/Burger_15.jpg" alt="Rupert BURGER" border="0">
      
 		 
      </td>

@@ -16,7 +16,7 @@ folder: marazeck
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Janasek.jpg" alt="Eva Maria JANASEK" border="0">
+     <img src="https://br-richard.github.io/images/marazeck/Janasek.jpg" alt="Eva Maria JANASEK" border="0">
      
 		 
      </td>
@@ -90,7 +90,7 @@ folder: marazeck
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Mackinger.jpg" alt="Josef MACKINGER" border="0">
+     <img src="https://br-richard.github.io/images/marazeck/Mackinger.jpg" alt="Josef MACKINGER" border="0">
      
 		 
      </td>
@@ -132,7 +132,7 @@ folder: marazeck
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Hawlin.jpg" alt="Alexander HAWLIN" border="0">
+     <img src="https://br-richard.github.io/images/marazeck/Hawlin.jpg" alt="Alexander HAWLIN" border="0">
      
 		 
      </td>

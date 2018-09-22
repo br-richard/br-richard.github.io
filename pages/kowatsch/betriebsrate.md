@@ -16,7 +16,7 @@ folder: kowatsch
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Rom 15.1.jpg" alt="Richard ROM" border="0">
+     <img src="https://br-richard.github.io/images/kowatsch/Rom_15.1.jpg" alt="Richard ROM" border="0">
      
 		 
      </td>
@@ -58,7 +58,7 @@ folder: kowatsch
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Kassl.2.jpg" alt="Robert Kassl" border="0">
+     <img src="https://br-richard.github.io/images/kowatsch/Kassl.2.jpg" alt="Robert Kassl" border="0">
      
 		 
      </td>
@@ -100,7 +100,7 @@ folder: kowatsch
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Weber.jpg" alt="Richard WEBER" border="0">
+     <img src="https://br-richard.github.io/images/kowatsch/Weber.jpg" alt="Richard WEBER" border="0">
      
 		 
      </td>

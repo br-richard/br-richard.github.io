@@ -13,7 +13,7 @@ folder: watzke
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Auto 15.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/watzke/Auto_15.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -82,7 +82,7 @@ folder: watzke
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Auto 16.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/watzke/Auto_16.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
@@ -153,7 +153,7 @@ folder: watzke
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Auto 18.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/watzke/Auto_18.gif" alt="" border="0"><br>
       
       
 			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>

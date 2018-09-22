@@ -17,7 +17,7 @@ folder: dr_richard_noe
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Reisinger.jpg" alt="Rudolf REISINGER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard_noe/Reisinger.jpg" alt="Rudolf REISINGER" border="0">
      
 		 
      </td>
@@ -59,7 +59,7 @@ folder: dr_richard_noe
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Zeller.2.jpeg" alt="Herbert ZELLER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard_noe/Zeller.2.jpeg" alt="Herbert ZELLER" border="0">
      
 		 
      </td>
@@ -101,7 +101,7 @@ folder: dr_richard_noe
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Krimbacher.jpeg" alt="Andreas KRIMBACHER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard_noe/Krimbacher.jpeg" alt="Andreas KRIMBACHER" border="0">
      
 		 
      </td>
@@ -143,7 +143,7 @@ folder: dr_richard_noe
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/Gruenberger.jpeg" alt="Reinharth GRÜNBERGER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard_noe/Gruenberger.jpeg" alt="Reinharth GRÜNBERGER" border="0">
      
 		 
      </td>
@@ -185,7 +185,7 @@ folder: dr_richard_noe
     <tbody><tr>
      <td width="217" class="kontaktimage" align="center" valign="middle">
      
-     <img src="http://netzwerke.oegb.at/br_richard/data/upload/gieler.jpg" alt="Robert GIELER" border="0">
+     <img src="https://br-richard.github.io/images/dr_richard_noe/gieler.jpg" alt="Robert GIELER" border="0">
      
 		 
      </td>

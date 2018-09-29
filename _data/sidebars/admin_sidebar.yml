@@ -129,25 +129,89 @@ entries:
     output: web
     folderitems:
 
-      - title: Neue Radarfallen
-        url: /neue_radarfallen/neue_radarfallen.html
-        output: web
+    - title: Neue Radarfallen
+      url: /neue_radarfallen/neue_radarfallen.html
+      output: web
 
-      - title: Altersstruktur
-        url: /altersstruktur/altersstruktur.html
-        output: web
+    - title: Altersstruktur
+      url: /altersstruktur/altersstruktur.html
+      output: web
 
-      - title: Veranstaltungen
-        url: /veranstaltungen/veranstaltungen.html
-        output: web
+    - title: Veranstaltungen
+      url: /veranstaltungen/veranstaltungen.html
+      output: web
 
-      - title: Vergünstigungen
-        url: /verguenstigungen/verguenstigungen.html
-        output: web
+    - title: Vergünstigungen
+      url: /verguenstigungen/verguenstigungen.html
+      output: web
 
-      - title: Anfrage an den BR
-        url: /anfrage/anfrage.html
-        output: web
+    - title: Anfrage an den BR
+      url: /anfrage/anfrage.html
+      output: web
+
+  - title: Fahrerinfo
+    output: web
+    folderitems:
+
+    - title: Schnellfahren
+      url: /schnellfahren/schnellfahren.html
+      output: web
+
+    - title: Weiterbildung
+      url: /weiterbildung/weiterbildung.html
+      output: web
+
+    - title: Lohnverhandlungen
+      url: /lohnverhandlungen/lohnverhandlungen.html
+      output: web
+
+    - title: Berufskraftfahrer
+      url: /berufskraftfahrer/berufskraftfahrer.html
+      output: web
+
+    - title: Unfallgefahr
+      url: /unfallgefahr/unfallgefahr.html
+      output: web
+
+  - title: Neuigkeiten
+    output: web
+    folderitems:
+
+    - title: Einsatz- Ruhezeiten
+      url: /einsatz-ruhezeiten/einsatz-ruhezeiten.html
+      output: web
+
+    - title: Berufsschutz
+      url: /berufsschutz/berufsschutz.html
+      output: web
+
+    - title: Heiteres
+      url: /heiteres/heiteres.html
+      output: web
+
+    - title: Gesundheit
+      url: /gesundheit/gesundheit.html
+      output: web
+
+  - title: Links
+    output: web
+    folderitems:
+
+    - title: Flixbus
+      url: /flixbus/flixbus.html
+      output: web
+
+    - title: Konzernbetriebsrat
+      url: /konzernbetriebsrat/konzernbetriebsrat.html
+      output: web
+
+    - title: Arbeiterkammer
+      url: /arbeiterkammer/arbeiterkammer.html
+      output: web
+
+    - title: Formulare
+      url: /formulare/formulare.html
+      output: web
 
   - title: Tag archives
     output: web

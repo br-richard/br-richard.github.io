@@ -129,10 +129,6 @@ entries:
     output: web
     folderitems:
 
-    - title: Aktuelles
-      url: /aktuelles.html
-      output: web
-
       - title: Neue Radarfallen
         url: /neue_radarfallen/neue_radarfallen.html
         output: web

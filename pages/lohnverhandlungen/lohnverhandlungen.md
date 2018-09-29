@@ -20,9 +20,9 @@ folder: lohnverhandlungen
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Hier siehst du die Lohnentwicklung seit 1966<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Lohnentwicklung A3.4.pdf"><img alt="Hier siehst du die Lohnentwicklung seit 1966" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 18 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Lohnentwicklung_A3.4.pdf"><img alt="Hier siehst du die Lohnentwicklung seit 1966" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 18 KB</a><br>
 <br>      Hier siehst du das Lohnentwicklungsdiagramm ab 1972 <br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Lohnentwicklung Diagramm A3.pdf"><img alt="Hier siehst du das Lohnentwicklungsdiagramm ab 1972 " src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 183 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Lohnentwicklung_Diagramm_A3.pdf"><img alt="Hier siehst du das Lohnentwicklungsdiagramm ab 1972 " src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 183 KB</a><br>
 <br>      
 <br>      
 <br>      

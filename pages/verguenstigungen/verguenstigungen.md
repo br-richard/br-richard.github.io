@@ -20,7 +20,7 @@ folder: verguenstigungen
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Wird ständig aktualisiert<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/NOVEMBER.1.pdf"><img alt="Wird ständig aktualisiert" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 260 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/NOVEMBER.1.pdf"><img alt="Wird ständig aktualisiert" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 260 KB</a><br>
 <br>      
 <br>      
 <br>      

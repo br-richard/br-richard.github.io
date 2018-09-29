@@ -3,13 +3,13 @@ repository: br-richard/br-richard.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Betriebsrat Dr. Richard
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Betriebsrat Dr. Richard
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: Betriebsrat Dr. Richard
 # this appears in the footer
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -34,7 +34,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: ferd.schilling@aon.at
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -100,7 +100,7 @@ defaults:
 sidebars:
 - admin_sidebar
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "Homepage der Betriebsräte aller Dr. Richard Betriebe und des Konzernbetriebsrates."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

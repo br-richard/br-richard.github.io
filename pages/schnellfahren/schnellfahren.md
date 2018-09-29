@@ -20,7 +20,7 @@ folder: schnellfahren
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Neue Strafen in €<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Strafen im Verkehr Neuerungen 2012.pdf"><img alt="Neue Strafen in €" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 98 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Strafen_im_Verkehr_Neuerungen_2012.pdf"><img alt="Neue Strafen in €" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 98 KB</a><br>
 <br>      
 <br>      
 <br>      

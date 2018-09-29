@@ -25,10 +25,10 @@ folder: gesundheit
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Vortrag in Wien<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Vortrag Modul.pdf"><img alt="Vortrag in Wien" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 20 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Vortrag_Modul.pdf"><img alt="Vortrag in Wien" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 20 KB</a><br>
 <br>      
 <br>      Bestellvorgang<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Bestellvorgang.1.pdf"><img alt="Bestellvorgang" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 8 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Bestellvorgang.1.pdf"><img alt="Bestellvorgang" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 8 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -103,7 +103,7 @@ Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Vemma Info.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 38 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Vemma_Info.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 38 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -175,7 +175,7 @@ Erfahren Sie die schockierende Wahrheit...</p>
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/vemma 01.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 756 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/vemma_01.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 756 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -247,7 +247,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Süßes Gift.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 56 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Suesses_Gift.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 56 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -316,7 +316,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Zum runterladen!<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Zigarette.pdf"><img alt="Zum runterladen!" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 13 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Zigarette.pdf"><img alt="Zum runterladen!" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 13 KB</a><br>
 <br>      
 <br>      
 <br>      

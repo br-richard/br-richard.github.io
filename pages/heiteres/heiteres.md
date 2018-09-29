@@ -972,7 +972,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Die fleißige Ameise<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Ameise.doc"><img alt="Die fleißige Ameise" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 78 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Ameise.doc"><img alt="Die fleißige Ameise" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 78 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -1041,7 +1041,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Dein Horoskop<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Dein Horoskop.pps"><img alt="Dein Horoskop" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 282 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Dein_Horoskop.pps"><img alt="Dein Horoskop" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 282 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -1110,7 +1110,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Hierarchie<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Hierarchie.doc"><img alt="Hierarchie" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 64 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Hierarchie.doc"><img alt="Hierarchie" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 64 KB</a><br>
 <br>      
 <br>      
 <br>      

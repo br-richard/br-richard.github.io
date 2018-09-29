@@ -20,9 +20,9 @@ folder: formulare
       
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Formular für Führerscheinverlängerung<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/fuehrers.pdf"><img alt="Formular für Führerscheinverlängerung" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 109 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/fuehrers.pdf"><img alt="Formular für Führerscheinverlängerung" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 109 KB</a><br>
 <br>      Arbeitnehmerveranlagung 2008<br>
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/L1.pdf"><img alt="Arbeitnehmerveranlagung 2008" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 489 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/L1.pdf"><img alt="Arbeitnehmerveranlagung 2008" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 489 KB</a><br>
 <br>      
 <br>      
 <br>      

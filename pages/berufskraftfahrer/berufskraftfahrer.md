@@ -21,15 +21,6 @@ folder: berufskraftfahrer
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Ärzteliste<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/VA-Sachverstaendigenliste.pdf"><img alt="Ärzteliste" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 30 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -41,10 +32,6 @@ folder: berufskraftfahrer
       <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
-
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=a81591015dbd50d0b4916a502bc97837&amp;L2=702a1a3c236d6b0dcba73c34c7b42dac&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
 
 
 

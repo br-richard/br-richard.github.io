@@ -27,10 +27,6 @@ Für die Frage der Berufsqualifikation im Zusammenhang mit der Invaliditätspens
 Es wird daher auch älteren Lenkern dringendst empfohlen die Berufskraftfahrerausbildung so rasch wie möglich zu machen!</p>
       <div class="articlefooter"></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=2df4488f0d795ff2510a32bc3b4f2d01&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
 
 
 

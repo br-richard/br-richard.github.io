@@ -690,11 +690,6 @@ folder: index
    		<p>Die Termine findest Du unter "Fahrerinfo - Weiterbildung"</p>
       <div class="articlefooter">Autor: <span class="articlefooternamedate">BR</span>&nbsp; </div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
-
 
 
 
@@ -824,9 +819,6 @@ Ihr könnt euch selbst testen. Datei starten und die Länderformen (links) mit d
 Viel Spaß
 </p>
       <div class="articlefooter">Autor: <span class="articlefooternamedate">Ferdinand Schilling</span>&nbsp; </div>
-
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
 
 
 

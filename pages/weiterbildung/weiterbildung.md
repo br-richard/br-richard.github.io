@@ -59,10 +59,6 @@ Melden Sie sich daher bitte rechtzeitig in der Fahrdienstleitung an. Die Teilneh
 Anmeldung beim der Fahrdienstleitung!</p>
       <div class="articlefooter"></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=a81591015dbd50d0b4916a502bc97837&amp;L2=d54f61d5596a6c79775533ab36ce02be&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
 
 
 

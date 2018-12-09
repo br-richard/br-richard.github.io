@@ -29,13 +29,7 @@ folder: gesundheit
 <br>      
 <br>      Bestellvorgang<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Bestellvorgang.1.pdf"><img alt="Bestellvorgang" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 8 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -55,12 +49,6 @@ Es lohnt sich hinzufahren.
    		<p>Sie sollten diese Gelegenheit nicht versäumen. Dauer ca. 90 min.<br><br>
 Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       <div class="articlefooter">Autor: <span class="articlefooternamedate">Gesund bleiben und werden!</span>&nbsp; </div>
-
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=038f83999f2a5719c2e09ea1f6bf7ecc&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
-
 
 
 
@@ -104,15 +92,7 @@ Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
       <a target="_blank" href="https://br-richard.github.io/uploads/Vemma_Info.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 38 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -127,11 +107,6 @@ In der Babynahrung sind nur 11 der wichtigen Nährstoffe...<br>
 Unsere Nahrung im Supermarkt enthält noch weniger lebenswichtige Mineralien und Vitamine...<br>
 Erfahren Sie die schockierende Wahrheit...</p>
       <div class="articlefooter"></div>
-
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=038f83999f2a5719c2e09ea1f6bf7ecc&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
 
 
 
@@ -176,15 +151,7 @@ Erfahren Sie die schockierende Wahrheit...</p>
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
       <a target="_blank" href="https://br-richard.github.io/uploads/vemma_01.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 756 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -199,20 +166,6 @@ Erfahren Sie die schockierende Wahrheit...</p>
 wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhältlich ist - VEMMA.
 </p>
       <div class="articlefooter">Autor: <span class="articlefooternamedate">Ferdinand Schilling</span>&nbsp; Datum: <span class="articlefooternamedate">16.08.2008</span></div>
-
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=038f83999f2a5719c2e09ea1f6bf7ecc&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
-
-
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
 
      
 
@@ -248,15 +201,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
       <a target="_blank" href="https://br-richard.github.io/uploads/Suesses_Gift.pdf"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 56 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -269,19 +214,6 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
    		
       <div class="articlefooter"></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=038f83999f2a5719c2e09ea1f6bf7ecc&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
-
-
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
 
      
 
@@ -317,15 +249,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Zum runterladen!<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Zigarette.pdf"><img alt="Zum runterladen!" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 13 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
@@ -338,19 +262,6 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
    		
       <div class="articlefooter"></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=038f83999f2a5719c2e09ea1f6bf7ecc&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
-
-
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
 
      
 
@@ -362,12 +273,4 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
     </tr>
 <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
     <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr>
-     <td align="right">
-      <a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-      <a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-      
-      
-     </td>
-    </tr>
    </tbody>

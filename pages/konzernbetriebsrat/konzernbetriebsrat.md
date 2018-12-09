@@ -30,8 +30,7 @@ folder: konzernbetriebsrat
    		<p>Der Konzernbetriebsrat wurde installiert um den Betriebsräten der einzelnen Betriebe zu helfen, damit in allen Betrieben soweit wie möglich die gleichen Bedienungen herrschen.</p>
       <div class="articlefooter"></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;L2=e71db0acb494c98bd174951a50cb6160&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
+
 
 
 
@@ -979,12 +978,5 @@ Ist leider am 17.09.2015 verstorben. +</td>
     </tr>
 <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
     <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr>
-     <td align="right">
-      <a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-      <a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-      
-      
-     </td>
-    </tr>
+    
    </tbody>

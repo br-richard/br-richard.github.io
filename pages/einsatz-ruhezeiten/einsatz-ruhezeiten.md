@@ -48,9 +48,6 @@ folder: einsatz-ruhezeiten
 Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie mitzunehmen. Die bildliche Darstellung findet Ihr ab der Seite 17.....</p>
       <div class="articlefooter">Datum: <span class="articlefooternamedate">28.04.2010</span></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=a0bf141eebc48d4ec8c507f5aacf4a1f&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
 
 
 
@@ -117,10 +114,6 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
    		
       <div class="articlefooter">Datum: <span class="articlefooternamedate">3.12.2009</span></div>
 
-<a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;L2=a0bf141eebc48d4ec8c507f5aacf4a1f&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-<a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-
-
 
 
 
@@ -141,12 +134,4 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
     </tr>
 <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
     <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr>
-     <td align="right">
-      <a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=b30119382ec1dca3ca1cdc527628e2a1&amp;" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowleft.gif" width="8" height="11" border="0">zurück</a>&nbsp; &nbsp;
-      <a href="#top" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrowup.gif" width="10" height="11" border="0">zum Seitenanfang.</a>&nbsp; &nbsp;
-      
-      
-     </td>
-    </tr>
    </tbody>

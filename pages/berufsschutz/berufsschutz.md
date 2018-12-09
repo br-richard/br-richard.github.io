@@ -10,7 +10,7 @@ folder: berufsschutz
      
      
      <td class="article" valign="top">
-      <h1>Berufsschutz</h1>
+      <!-- <h1>Berufsschutz</h1> -->
       
       <h3>Geschätzte Kolleginnen und Kollegen!</h3>
       <hr size="1" noshade="sure">

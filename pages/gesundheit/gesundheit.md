@@ -41,7 +41,6 @@ Bitte empfiehl diesen Vortrag an Verwandte und Bekannte weiter.
 Es lohnt sich hinzufahren.
 	
 </h3>
-      <hr size="1" noshade="sure">
    		<p>Sie sollten diese Gelegenheit nicht versäumen. Dauer ca. 90 min.<br><br>
 Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       <div class="articlefooter">Autor: <span class="articlefooternamedate">Gesund bleiben und werden!</span>&nbsp; </div>
@@ -86,7 +85,6 @@ Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       <h1>Unsere Nahrung</h1>
       
       <h3>Wie gesund sind unsere Nahrungsmittel?</h3>
-      <hr size="1" noshade="sure">
    		<p>Im Tierfutter sind 48 wichtige Nährstoffe...<br>
 In der Babynahrung sind nur 11 der wichtigen Nährstoffe...<br>
 Unsere Nahrung im Supermarkt enthält noch weniger lebenswichtige Mineralien und Vitamine...<br>
@@ -136,7 +134,6 @@ Erfahren Sie die schockierende Wahrheit...</p>
       <h2>Deine Gesundheit ist Dein größtes Kapital!</h2>
       <h3>Dein Körper produziert täglich 300 Millionen neue Zellen. Das sind 9 Billionen jeden Monat. Haltest Du Deine Zellen auch gesund?
 </h3>
-      <hr size="1" noshade="sure">
    		<p>Versorgst Du Deine 300 Millionen Neuen Zellen jeden Tag mit den Nährstoffen, die diese für ein gesundes Zellwachstum benötigen, mit dem wohl vollständigsten,
 wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhältlich ist - VEMMA.
 </p>
@@ -176,7 +173,6 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <h1>Süßes Gift</h1>
       
       <h3>Light Getränke sind (süßes) Gift!</h3>
-      <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
 
@@ -214,7 +210,6 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <h1>Rauchen</h1>
       
       <h3>Es geht um DEINE Gesundheit!</h3>
-      <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
 

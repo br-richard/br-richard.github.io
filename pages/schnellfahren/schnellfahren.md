@@ -29,7 +29,7 @@ folder: schnellfahren
     <td class="article" valign="top">
       <!-- <h1>Schnellfahren</h1> -->
       <h2>Strafen im Ausland</h2>
-      <h3>Überschreitung um 20 km/h kostet in Norwegen 465 Euro €</h3>
+      <h3>Überschreitung um 20 km/h kostet in Norwegen 465&nbsp;€</h3>
       <p>
         Im Folgenden ein Überblick über die Strafhöhen (in Eurobeträgen) in ausgewählten Ländern in Euro-Beträgen:
       </p>

@@ -6,37 +6,35 @@ permalink: berufskraftfahrer/berufskraftfahrer.html
 folder: berufskraftfahrer
 ---
 
-<tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
+<tbody>
+<tr>
+<td valign="top">
+
+  <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
+  <tbody>
+  <tr width="450">
+
+    <td valign="top" class="articleleftcolumn">
+
       <img src="https://br-richard.github.io/images/berufskraftfahrer/Arzt01.jpg" alt="" border="0"><br>
-      
-      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+
+      <img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads<br>
+
       Ärzteliste<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/VA-Sachverstaendigenliste.pdf"><img alt="Ärzteliste" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 30 KB</a><br>
-      
-      
-     </td>
-     
-     <td class="article" valign="top">
-      <h1>Ärzteliste für Führerscheinverlängerung</h1>
-      
-      
-      <hr size="1" noshade="sure">
-   		
-      <div class="articlefooter"></div>
 
+      <a target="_blank" href="https://br-richard.github.io/uploads/VA-Sachverstaendigenliste.pdf"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 30 KB</a>
 
+    </td>
 
+    <td class="article" valign="top">
+      <!-- <h1>Berufskraftfahrer</h1> -->
+      <h3>Ärzteliste für Führerscheinverlängerung</h3>
+    </td>
 
+  </tr>
+  </tbody>
+  </table>
 
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
-
-     
-
-     </td>
-    </tr>
-   </tbody>
+</td>
+</tr>
+</tbody>

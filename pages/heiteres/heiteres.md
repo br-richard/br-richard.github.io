@@ -18,7 +18,6 @@ folder: heiteres
       <h1>Fahrschein</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Eine alte Dame zeigt dem Kontrolleur die Fahrkarte. „Des is a Kinderkortn - mit dera kennan's ned fohrn!“ Sagt die Dame: „Jetzt kennan's ihna vurstölln, wie lang i auf den scheiss Zug schon gwort hob ...!!!</p>
       <div class="articlefooter"></div>
 
@@ -45,7 +44,6 @@ folder: heiteres
       <h1>Ehepaar</h1>
       
       <h3>Unterschied</h3>
-      <hr size="1" noshade="sure">
    		<p>Jaja, so kannst gehen. Ein Ehepaar sitzt schweigend am Frühstückstisch. Plötzlich steht die Ehefrau auf und haut ihrem Mann eine herunter, dass ihm ganz schwindlig wird. Nachdem er sich erholt hat, fragt er, womit er die Ohrfeige verdient habe. Die Frau: „Für 28 Jahre schlechten Sex.“ Einige Minuten später steht der Ehemann auf und haut seiner Frau eine herunter, dass es sie vom Stuhl weht. Als sie wieder auf dem Damm ist, fragt sie, wofür das war. Darauf der Ehemann: „Woher kennst du den Unterschied?</p>
       <div class="articlefooter"></div>
 
@@ -76,7 +74,6 @@ folder: heiteres
       <h1>Goldene Hochzeit</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Nach der goldenen Hochzeitsfeier liegt das alte Ehepaar im Bett.<br>Die Gäste sind bei ihnen im Haus einquartiert.<br>
 Sagt der Mann zu der Frau: "Kannst dich noch erinnern
 Schatzi, vor 50 Jahren unsere Hochzeitsnacht?<br>Ich hab mir in den Finger
@@ -108,7 +105,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Erlebnisreise</h1>
       
       <h3>Paris</h3>
-      <hr size="1" noshade="sure">
    		<p>Kommt ein Herr ins Reisebüro. „Ich möchte gern mal nach Paris fahren. Schöne Mädchen... Sie verstehen schon! Was, meinen Sie, ist die beste Zeit dafür?“ - „Versuchen Sie es, ehe Sie sechzig werden. Nachher ist es nicht mehr so...!“ </p>
       <div class="articlefooter"></div>
 
@@ -136,7 +132,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Beamte</h1>
       
       <h3>Finanzamt</h3>
-      <hr size="1" noshade="sure">
    		<p>Treffen sich zwei Vampire am Eingang vom Finanzamt. Sagt der eine zum anderen: „ Da brauchst du gar nicht erst rein, die saugen selber.“</p>
       <div class="articlefooter"></div>
 
@@ -190,7 +185,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>FKK Strand</h1>
       
       <h3>Ein kleiner Junge am FKK-Strand.</h3>
-      <hr size="1" noshade="sure">
    		<p>Mutter und Vater nehmen ihren 6-jährigen Sohn mit zum Nacktbadestrand. Als der Junge so am Strand umherläuft, bemerkt er, dass viele Frauen größere Brüste haben als seine Mutter. Also geht er zurück und fragt seine Mutter danach. Sie sagt ihrem Sohn: „Je größer die Brüste, desto dümmer ist die Frau.“ Der Junge ist zufrieden mit der Antwort und geht zurück ans Wasser um zu spielen. Als er wieder zurückkommt, sagt er seiner Mutter, dass viele Männer ein größeres Ding haben als sein Vater. Sie sagt ihrem Sohn: „Je größer die Dinger sind, desto blöder sind die Männer.“ Zufrieden geht der Junge wieder zum Wasser zurück. Kurz danach kommt der Junge wieder zurück und berichtet seiner Mutter: „Papa spricht mit der dümmsten Frau am Strand und je länger er spricht, desto blöder wird er dabei.“</p>
       <div class="articlefooter"></div>
 
@@ -216,7 +210,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Ampel</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Fährt ein Autofahrer bei Rot über die Ampel und wird von einer Polizistin angehalten. Er kurbelt das Fenster runter und fragt: „Wie viel?“ „30 Euro“ „Okay, steig ein!“  </p>
       <div class="articlefooter"></div>
 
@@ -242,7 +235,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Zoll</h1>
       
       <h3>Nachschub</h3>
-      <hr size="1" noshade="sure">
    		<p>Ein Zöllner zum Anderen: „Wir müssen heute mal wieder stärker kontrollieren, wir haben keine Zigaretten und keinen Kaffee mehr!“
 </p>
       <div class="articlefooter"></div>
@@ -269,7 +261,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Beamte</h1>
       
       <h3>Überstunden</h3>
-      <hr size="1" noshade="sure">
    		<p>Treffen sich zwei Beamte. Sagt der eine: Ich habe Gestern drei Überstunden gemacht! Sagt der andere: So? Was habt ihr denn gefeiert?</p>
       <div class="articlefooter"></div>
 
@@ -295,7 +286,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Polizist</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Was sind die vier schwersten Jahre im Leben eines Polizisten? - Die erste Klasse.</p>
       <div class="articlefooter"></div>
 
@@ -321,7 +311,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Schlaf</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Ich möchte sterben wie mein Großvater. Ruhig im Schlaf, … und nicht schreiend wie sein Beifahrer.</p>
       <div class="articlefooter"></div>
 
@@ -347,7 +336,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Urlaub</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>„Mama machen Kühe auch Urlaub?" „Was soll die Frage?" „Ich hörte wie Papa zum Dienstmädchen sagte: Wenn die alte Kuh Urlaub macht, werde ich viel Zeit für dich haben!"</p>
       <div class="articlefooter"></div>
 
@@ -372,7 +360,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Geisterfahrer</h1>
       
       <h3>Wohin?</h3>
-      <hr size="1" noshade="sure">
    		<p>Der Geisterfahrer zum Polizisten: „Was heißt hier falsche Richtung? - Sie wissen doch gar nicht wohin ich will!“</p>
       <div class="articlefooter"></div>
 
@@ -399,7 +386,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Polizist</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Wie öffnet ein Polizist eine Konservendose?
 Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <div class="articlefooter"></div>
@@ -427,7 +413,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <h1>Nachwuchs</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>„Ich höre du bist Vater geworden! Wie geht es denn deiner Frau?“ - „Gut, solange sie nichts davon erfährt.“</p>
       <div class="articlefooter"></div>
 
@@ -454,7 +439,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <h1>Verkehrskontrolle</h1>
       
       
-      <hr size="1" noshade="sure">
    		<p>Nachts. Verkehrskontrolle. Der Autofahrer hat keine Papiere. Sagt der Polizist:" Wir müssen Ihre Personalien überprüfen. wie heißen Sie?" "Franz Beckenbauer." Sie wollen mich wohl verarschen. Den kenn ich doch. Also noch mal, wie heißen Sie?" "Johann Wolfgang von Goethe." "Na also, geht doch."</p>
       <div class="articlefooter"></div>
 
@@ -479,8 +463,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
      <td class="article" valign="top">
       <h1>Spätes Mutterglück!</h1>
       
-      
-      <hr size="1" noshade="sure">
    		<p>Durch all diese neuen Technologien im Bereich der weiblichen Fruchtbarkeit war es einer 77-jährigen Frau möglich noch einmal Mutter zu werden. Nachdem sie aus dem Spital entlassen wurde und wieder zu Hause war, kam die Verwandtschaft zu Besuch. „Können wir das Baby sehen?“ Fragte eine. „Nicht  jetzt“ sagte die späte Mutter, „Ich mache erst einmal einen Kaffee und wir plaudern ein bißchen“. Dreißig Minuten vergehen und eine andere Verwandte fragte „Können wir jetzt dein neues Baby sehen?“. „Nicht jetzt“ sagte die Mutter. Nachdem einige weitere Minuten vergangen waren, fragten sie wieder „Können wir das Baby jetzt sehen?“ „Nein jetzt nicht!“ antwortete die Mutter ungehalten. Die Verwandten wurden jetzt schon sehr ungeduldig „Also wann können wir denn das Baby endlich sehen?“ „Wenn es schreit“ sagte sie ihnen. „Warum um Gottes willen müssen wir warten, bis es schreit?“ fragten sie. „Weil ich mich nicht mehr erinnern kann, wo ich's hingelegt hab“.</p>
       <div class="articlefooter"></div>
 
@@ -514,7 +496,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <h1>Ameise</h1>
       
       
-      <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
 
@@ -548,7 +529,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <h1>Dein Horoskop</h1>
       
       
-      <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
 
@@ -581,7 +561,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       <h1>Hierarchie</h1>
       
       
-      <hr size="1" noshade="sure">
    		
       <div class="articlefooter"></div>
 

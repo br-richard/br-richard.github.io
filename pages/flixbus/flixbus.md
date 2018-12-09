@@ -19,26 +19,5 @@ folder: flixbus
       
       
      </td>
-     
-     <td class="article" valign="top">
-      <h1>meinfernbus</h1>
-      
-      
-      <hr size="1" noshade="sure">
-   		
-      <div class="articlefooter"></div>
-
-
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
-
-     
-
-     </td>
     </tr>
    </tbody>

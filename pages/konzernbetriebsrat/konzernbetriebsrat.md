@@ -15,10 +15,9 @@ folder: konzernbetriebsrat
 
      
      <td class="article" valign="top">
-      <h1>Konzernbetriebsrat</h1>
+      <!-- <h1>Konzernbetriebsrat</h1> -->
       
       <h3>Liebe Kolleginnen und Kollegen!</h3>
-      <hr size="1" noshade="sure">
    		<p>Der Konzernbetriebsrat wurde installiert um den Betriebsräten der einzelnen Betriebe zu helfen, damit in allen Betrieben soweit wie möglich die gleichen Bedienungen herrschen.</p>
       <div class="articlefooter"></div>
 
@@ -63,13 +62,10 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 14 11
    
    <br><a href="mailto:rupert.burger@a1.net" class="kontaktemail">rupert.burger@a1.net</a>
+   <br><br>
+   Vorsitzender bei Fa. Watzke
   </td>
  </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Watzke</td>
- </tr>
- 
  
  
 </tbody></table><!-- R:0.01073694229126  --></td>
@@ -104,11 +100,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 14 87
    
    <br><a href="mailto:ricrom@aon.at" class="kontaktemail">ricrom@aon.at</a>
+   <br><br>
+   Vorsitzender bei Fa. Kowatsch
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Kowatsch</td>
  </tr>
  
  
@@ -145,11 +139,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 14 66
    
    <br><a href="mailto:freimut.stefaner@tmo.at" class="kontaktemail">freimut.stefaner@tmo.at</a>
+   <br><br>
+   Vorsitzender bei Fa. Albus
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Albus</td>
  </tr>
  
  
@@ -186,11 +178,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-699 19 69 98 52
    <br>Fax.: +43-1-33 100/889
    <br><a href="mailto:ferdl.t@gmx.at" class="kontaktemail">ferdl.t@gmx.at</a>
+   <br><br>
+   3. Vorsitzender StV. und Kassier bei Fa. Dr. Richard
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">3. Vorsitzender StV. und Kassier bei Fa. Dr. Richard</td>
  </tr>
  
  
@@ -227,11 +217,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 423 32 99
    
    <br><a href="mailto:arnold.schmidt@a1.net" class="kontaktemail">arnold.schmidt@a1.net</a>
+   <br><br>
+   Vorsitzender StV. bei Fa. Salzkraft
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Salzkraft</td>
  </tr>
  
  
@@ -268,11 +256,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-650 564 81 98
    
    <br><a href="mailto:eva.janasek@sbg.at" class="kontaktemail">eva.janasek@sbg.at</a>
+   <br><br>
+   Vorsitzender bei Fa. Marazeck
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Marazeck</td>
  </tr>
  
  
@@ -309,11 +295,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 10 74
    <br>Fax.: +43-1-33 100/889
    <br><a href="mailto:josef_schoen@gmx.at" class="kontaktemail">josef_schoen@gmx.at</a>
+   <br><br>
+   Vorsitzender bei Fa. Dr. Richard
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Dr. Richard</td>
  </tr>
  
  
@@ -350,11 +334,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 10 59
    <br>Fax.: +43-1-33 100/889
    <br><a href="mailto:g.navratek@gmx.at" class="kontaktemail">g.navratek@gmx.at</a>
+   <br><br>
+   Betriebsrat bei Fa. Dr. Richard
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Betriebsrat bei Fa. Dr. Richard</td>
  </tr>
  
  
@@ -391,11 +373,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 384 10 59
    
    <br><a href="mailto:adolf.stueblo@gmx.at" class="kontaktemail">adolf.stueblo@gmx.at</a>
+   <br><br>
+   Vorsitzender StV. und Kassier bei Fa. Albus
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender StV. und Kassier bei Fa. Albus</td>
  </tr>
  
  
@@ -432,11 +412,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 11 90
    
    <br><a href="mailto:rudi.reisinger@aon.at" class="kontaktemail">rudi.reisinger@aon.at</a>
+   <br><br>
+   Vorsitzender bei Dr. Richard NÖ
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Dr. Richard NÖ</td>
  </tr>
  
  
@@ -473,11 +451,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 215 41 90
    
    <br><a href="mailto:herbert.zeller@aon.at" class="kontaktemail">herbert.zeller@aon.at</a>
+   <br><br>
+   Vorsitzender Stv. und Kassier bei Fa. Dr. Richard NÖ
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender Stv. und Kassier bei Fa. Dr. Richard NÖ</td>
  </tr>
  
  
@@ -514,11 +490,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 13 68
    
    <br><a href="mailto:betriebsrat.austrobus@gmail.com" class="kontaktemail">betriebsrat.austrobus@gmail.com</a>
+   <br><br>
+   Vorsitzender bei Fa. Austrobus
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Austrobus</td>
  </tr>
  
  
@@ -553,15 +527,11 @@ folder: konzernbetriebsrat
    <br>Friedrichstraße 6/12<br>
    A 1010 Wien
    <br>Tel.: +43-664 814 13 76
-   
+   <br><br>
+   Vorsitzender Stellvertreter bei Fa. Austrobus
    
   </td>
  </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender Stellvertreter bei Fa. Austrobus</td>
- </tr>
- 
  
  
 </tbody></table><!-- R:0.011851072311401  --></td>
@@ -596,11 +566,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-650 290 84 95
    
    <br><a href="mailto:djokicv1@gmail.com" class="kontaktemail">djokicv1@gmail.com</a>
+   <br><br>
+   Vorsitzender bei Fa. Kolda
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender bei Fa. Kolda</td>
  </tr>
  
  
@@ -637,11 +605,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-676 338 08 55
    
    <br><a href="mailto:wolfgang.p1@gmx.net" class="kontaktemail">wolfgang.p1@gmx.net</a>
+   <br><br>
+   Kassier bei Fa. Kolda
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Kassier bei Fa. Kolda</td>
  </tr>
  
  
@@ -678,11 +644,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-650 242 68 68
    
    <br><a href="mailto:br-bus.kowatsch@gmx.at" class="kontaktemail">br-bus.kowatsch@gmx.at</a>
+   <br><br>
+   Vorsitzender StV. bei Fa. Kowatsch
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Kowatsch</td>
  </tr>
  
  
@@ -719,11 +683,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 814 15 51
    
    <br><a href="mailto:oberascher.peter@aon.at" class="kontaktemail">oberascher.peter@aon.at</a>
+   <br><br>
+   Vorsitzender StV. bei Fa. Marazeck
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Marazeck</td>
  </tr>
  
  
@@ -760,11 +722,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 461 14 94
    
    <br><a href="mailto:reini.pierer@hotmail.com" class="kontaktemail">reini.pierer@hotmail.com</a>
+   <br><br>
+   Vorsitzender Stellvertreter bei Fa. Südburg
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Vorsitzender Stellvertreter bei Fa. Südburg</td>
  </tr>
  
  
@@ -801,11 +761,9 @@ folder: konzernbetriebsrat
    <br>Tel.: +43-664 192 48 19
    
    <br><a href="mailto:rolland.hemmer@aon.at" class="kontaktemail">rolland.hemmer@aon.at</a>
+   <br><br>
+   Schriftführer bei Fa. Südburg
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Schriftführer bei Fa. Südburg</td>
  </tr>
  
  
@@ -842,12 +800,10 @@ folder: konzernbetriebsrat
    
    
    <br><a href="mailto:h.oswald@gmx.at" class="kontaktemail">h.oswald@gmx.at</a>
+   <br><br>
+   War 12 Jahre Konzernvorsitzender bei Dr. Richard <br>
+Ist leider am 17.09.2015 verstorben. +
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">War 12 Jahre Konzernvorsitzender bei Dr. Richard <br>
-Ist leider am 17.09.2015 verstorben. +</td>
  </tr>
  
  
@@ -884,11 +840,9 @@ Ist leider am 17.09.2015 verstorben. +</td>
    <br>Tel.: +43-664 303 21 94
    <br>Fax.: +43/1 33 100/889
    <br><a href="mailto:j.grah@betriebsrat-dr-richard.jet2web.at" class="kontaktemail">j.grah@betriebsrat-dr-richard.jet2web.at</a>
+   <br><br>
+   Ehrenmitglied im Konzern BR
   </td>
- </tr>
- 
- <tr>
-  <td colspan="2" class="lauftext">Ehrenmitglied im Konzern BR</td>
  </tr>
  
  

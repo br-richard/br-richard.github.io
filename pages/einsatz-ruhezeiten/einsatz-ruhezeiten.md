@@ -28,15 +28,6 @@ folder: einsatz-ruhezeiten
       
       
       
-      
-      
-      
-      
-      
-      <br>
-      
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">
@@ -93,17 +84,9 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
       <a target="_blank" href="https://br-richard.github.io/uploads/Ruhetage.1.pdf"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 9 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

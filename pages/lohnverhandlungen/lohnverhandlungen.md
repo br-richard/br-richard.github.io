@@ -25,7 +25,7 @@ folder: lohnverhandlungen
       <a target="_blank" href="https://br-richard.github.io/uploads/Lohnentwicklung_Diagramm_A3.pdf"><img alt="Hier siehst du das Lohnentwicklungsdiagramm ab 1972 " src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 183 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

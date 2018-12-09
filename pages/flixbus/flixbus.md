@@ -24,14 +24,6 @@ folder: flixbus
       
       
       
-      
-      
-      
-      
-      <br>
-      
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">

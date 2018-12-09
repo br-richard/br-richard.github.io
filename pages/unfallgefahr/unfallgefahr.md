@@ -22,7 +22,7 @@ folder: unfallgefahr
       Sturz aus Schulbus<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Tuersturz.jpg"><img alt="Sturz aus Schulbus" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 599 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

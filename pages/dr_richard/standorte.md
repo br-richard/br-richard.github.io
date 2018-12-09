@@ -22,17 +22,9 @@ folder: dr_richard
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Stromstraße 11<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Stromstr_01.jpg"><img alt="Stromstraße 11" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 170 KB</a><br>
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
-<br>      
+
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

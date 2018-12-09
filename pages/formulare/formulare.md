@@ -24,7 +24,7 @@ folder: formulare
 <br>      Arbeitnehmerveranlagung 2008<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/L1.pdf"><img alt="Arbeitnehmerveranlagung 2008" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 489 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

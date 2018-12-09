@@ -31,7 +31,7 @@ folder: gesundheit
       <a target="_blank" href="https://br-richard.github.io/uploads/Bestellvorgang.1.pdf"><img alt="Bestellvorgang" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 8 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -94,7 +94,7 @@ Dieser Abend hat das Potential, Ihr Leben grundlegend positiv zu verändern!</p>
       <a target="_blank" href="https://br-richard.github.io/uploads/Vemma_Info.pdf"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 38 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -153,7 +153,7 @@ Erfahren Sie die schockierende Wahrheit...</p>
       <a target="_blank" href="https://br-richard.github.io/uploads/vemma_01.pdf"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 756 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -203,7 +203,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <a target="_blank" href="https://br-richard.github.io/uploads/Suesses_Gift.pdf"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 56 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -251,7 +251,7 @@ wohlschmeckendsten und wirkungsvollsten Ernährungsprogramm, das derzeit erhält
       <a target="_blank" href="https://br-richard.github.io/uploads/Zigarette.pdf"><img alt="Zum runterladen!" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 13 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

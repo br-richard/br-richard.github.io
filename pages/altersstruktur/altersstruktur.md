@@ -11,15 +11,9 @@ folder: altersstruktur
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/altersstruktur/Trinker_03.gif" alt="" border="0"><br>
       
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
 			
       
       
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">

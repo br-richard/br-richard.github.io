@@ -7,15 +7,7 @@ folder: berufsschutz
 ---
 
 <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+     
      
      <td class="article" valign="top">
       <h1>Berufsschutz</h1>

@@ -15,11 +15,7 @@ folder: albus
             <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
                 <tbody>
                 <tr width="450">
-                    <td valign="top" class="articleleftcolumn">
-
-
-                        <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-                    </td>
+                    
                     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                                         height="1" alt=""></td>
                     <td class="article" valign="top">
@@ -54,11 +50,7 @@ folder: albus
             <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
                 <tbody>
                 <tr width="450">
-                    <td valign="top" class="articleleftcolumn">
-
-
-                        <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-                    </td>
+                    
                     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
                                         height="1" alt=""></td>
                     <td class="article" valign="top">

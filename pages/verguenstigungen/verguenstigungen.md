@@ -22,7 +22,7 @@ folder: verguenstigungen
       Wird ständig aktualisiert<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/NOVEMBER.1.pdf"><img alt="Wird ständig aktualisiert" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 260 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

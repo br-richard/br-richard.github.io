@@ -10,15 +10,8 @@ folder: weiterbildung
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/weiterbildung/schule_01.1.gif" alt="" border="0"><br>
       
+
       
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">
@@ -62,12 +55,6 @@ Anmeldung beim der Fahrdienstleitung!</p>
 
 
 
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
 
      
 

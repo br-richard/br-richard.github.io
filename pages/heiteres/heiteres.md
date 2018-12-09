@@ -12,15 +12,7 @@ folder: heiteres
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Fahrschein</h1>
@@ -51,15 +43,7 @@ folder: heiteres
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+     
      
      <td class="article" valign="top">
       <h1>Ehepaar</h1>
@@ -94,14 +78,6 @@ folder: heiteres
       <img src="https://br-richard.github.io/images/heiteres/00004210.gif" alt="" border="0"><br>
       
       
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">
@@ -138,15 +114,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+   
      
      <td class="article" valign="top">
       <h1>Erlebnisreise</h1>
@@ -177,15 +145,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+   
      
      <td class="article" valign="top">
       <h1>Beamte</h1>
@@ -216,12 +176,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+   
      
      <td class="article" valign="top">
       <h1>Ostervorbereitung</h1>
@@ -253,17 +208,9 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="https://br-richard.github.io/images/heiteres/urlaub_113.gif" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/heiteres/urlaub_113.gif" alt="" border="0"><br>	
       
       
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
      
      <td class="article" valign="top">
@@ -294,15 +241,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+  
      
      <td class="article" valign="top">
       <h1>Ampel</h1>
@@ -332,15 +271,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Zoll</h1>
@@ -371,15 +302,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Beamte</h1>
@@ -409,15 +332,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Polizist</h1>
@@ -447,15 +362,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Schlaf</h1>
@@ -485,15 +392,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Urlaub</h1>
@@ -523,15 +422,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Geisterfahrer</h1>
@@ -562,15 +453,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Polizist</h1>
@@ -602,15 +485,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Nachwuchs</h1>
@@ -641,15 +516,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Verkehrskontrolle</h1>
@@ -679,15 +546,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 
    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
     <tbody><tr width="450">
-     <td valign="top" class="articleleftcolumn">
-      
-      
-      
-			
-			
-      
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
-     </td>
+
      
      <td class="article" valign="top">
       <h1>Spätes Mutterglück!</h1>
@@ -732,7 +591,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       Die fleißige Ameise<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Ameise.doc"><img alt="Die fleißige Ameise" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 78 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -778,7 +637,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       Dein Horoskop<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Dein_Horoskop.pps"><img alt="Dein Horoskop" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 282 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -824,7 +683,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       Hierarchie<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Hierarchie.doc"><img alt="Hierarchie" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 64 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

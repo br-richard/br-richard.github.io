@@ -27,7 +27,7 @@ folder: watzke
       
       <a target="_blank" href="https://br-richard.github.io/uploads/Puchstr_176a.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 55 KB</a><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -77,7 +77,7 @@ folder: watzke
       <a target="_blank" href="https://br-richard.github.io/uploads/Knittelfeld.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 99 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">
@@ -126,7 +126,7 @@ folder: watzke
       <a target="_blank" href="https://br-richard.github.io/uploads/St_Marein.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 35 KB</a><br>
 
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
+      
      </td>
      
      <td class="article" valign="top">

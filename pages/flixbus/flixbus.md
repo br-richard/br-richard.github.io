@@ -11,7 +11,7 @@ folder: flixbus
       <img src="https://br-richard.github.io/images/flixbus/Fernbus.1.jpg" alt="" border="0"><br>
 			
 			
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/linktipps.gif" width="8" height="9" alt="">&nbsp;Linktipps</div>
+      <div><img src="https://br-richard.github.io/images/symbols/linktipps.gif" width="8" height="9" alt="">&nbsp;Linktipps</div>
       <a target="_blank" href="http://meinfernbus.at/"><img alt="meinfernbus" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">meinfernbus</a><br>
       
       

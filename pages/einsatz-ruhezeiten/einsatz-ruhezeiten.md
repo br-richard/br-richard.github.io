@@ -16,7 +16,7 @@ folder: einsatz-ruhezeiten
       <img src="https://br-richard.github.io/images/einsatz-ruhezeiten/Ampel_02.gif" alt="" border="0"><br>
 
 
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/linktipps.gif" width="8" height="9" alt="">&nbsp;Linktipps</div>
+      <div><img src="https://br-richard.github.io/images/symbols/linktipps.gif" width="8" height="9" alt="">&nbsp;Linktipps</div>
       <a target="_blank" href="http://wko.at/bus/Fahrerhandbuch.pdf"><img alt="Druck dir das für Dich wichtige aus!" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Druck dir das für Dich wichtige aus!</a><br>
       
       
@@ -36,15 +36,6 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
 
 
 
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
-
-     
 
      </td>
     </tr>
@@ -80,14 +71,6 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
       <div class="articlefooter">Datum: <span class="articlefooternamedate">3.12.2009</span></div>
 
 
-
-
-
-<!--      <hr size="1" noshade="indeed"> -->
-<!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
-      </div>-->
 
      
 

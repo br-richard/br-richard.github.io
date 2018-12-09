@@ -8,7 +8,7 @@ folder: dr_richard_noe
 
 <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
-      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Betirbsausflug 01.2.JPG" alt="" border="0"><br>
+      <img src="https://br-richard.github.io/images/dr_richard_noe/Betirbsausflug_01.jpg" alt="" border="0"><br>
       
 
       
@@ -18,7 +18,7 @@ folder: dr_richard_noe
       <table cellpadding="0" cellspacing="0" border="0" summary="" class="articleimages">
        <tbody><tr>
         <td>
-		      <img src="http://netzwerke.oegb.at/br_richard/data/upload/Betirbsausflug 02.2.JPG" alt="" border="0"><br>
+		      <img src="https://br-richard.github.io/images/dr_richard_noe/Betirbsausflug_02.jpg" alt="" border="0"><br>
 		      
 		      
 					<br>

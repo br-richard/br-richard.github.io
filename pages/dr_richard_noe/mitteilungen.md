@@ -18,7 +18,7 @@ folder: dr_richard_noe
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <table cellpadding="0" cellspacing="0" border="0" summary="" class="articleimages">
        <tbody><tr>
@@ -29,7 +29,7 @@ folder: dr_richard_noe
 					<br>
 					
         </td>
-        <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+        
         <td>
 		      
         </td>

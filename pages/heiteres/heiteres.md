@@ -21,7 +21,7 @@ folder: heiteres
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Fahrschein</h1>
       
@@ -60,7 +60,7 @@ folder: heiteres
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Ehepaar</h1>
       
@@ -103,7 +103,7 @@ folder: heiteres
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Goldene Hochzeit</h1>
       
@@ -147,7 +147,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Erlebnisreise</h1>
       
@@ -186,7 +186,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Beamte</h1>
       
@@ -222,7 +222,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Ostervorbereitung</h1>
       
@@ -265,7 +265,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>FKK Strand</h1>
       
@@ -303,7 +303,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Ampel</h1>
       
@@ -341,7 +341,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Zoll</h1>
       
@@ -380,7 +380,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Beamte</h1>
       
@@ -418,7 +418,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Polizist</h1>
       
@@ -456,7 +456,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Schlaf</h1>
       
@@ -494,7 +494,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Urlaub</h1>
       
@@ -532,7 +532,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Geisterfahrer</h1>
       
@@ -571,7 +571,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Polizist</h1>
       
@@ -611,7 +611,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Nachwuchs</h1>
       
@@ -650,7 +650,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Verkehrskontrolle</h1>
       
@@ -688,7 +688,7 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Spätes Mutterglück!</h1>
       
@@ -728,13 +728,13 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Die fleißige Ameise<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/Ameise.doc"><img alt="Die fleißige Ameise" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 78 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Ameise.doc"><img alt="Die fleißige Ameise" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 78 KB</a><br>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Ameise</h1>
       
@@ -774,13 +774,13 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Dein Horoskop<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/Dein_Horoskop.pps"><img alt="Dein Horoskop" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 282 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Dein_Horoskop.pps"><img alt="Dein Horoskop" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 282 KB</a><br>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Dein Horoskop</h1>
       
@@ -820,13 +820,13 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Hierarchie<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/Hierarchie.doc"><img alt="Hierarchie" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 64 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Hierarchie.doc"><img alt="Hierarchie" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">DOC-Datei, 64 KB</a><br>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Hierarchie</h1>
       

@@ -23,13 +23,13 @@ folder: watzke
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="https://br-richard.github.io/uploads/Puchstr_176a.jpg"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 55 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Puchstr_176a.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 55 KB</a><br>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Graz</h1>
       
@@ -72,14 +72,14 @@ folder: watzke
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="https://br-richard.github.io/uploads/Knittelfeld.jpg"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 99 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Knittelfeld.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 99 KB</a><br>
 
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Knittelfeld</h1>
       
@@ -121,14 +121,14 @@ folder: watzke
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="https://br-richard.github.io/uploads/St_Marein.jpg"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 35 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/St_Marein.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 35 KB</a><br>
 
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>St. Marein</h1>
       

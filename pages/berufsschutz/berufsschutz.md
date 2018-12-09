@@ -16,7 +16,7 @@ folder: berufsschutz
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Berufsschutz</h1>
       
@@ -33,8 +33,8 @@ Es wird daher auch älteren Lenkern dringendst empfohlen die Berufskraftfahrerau
 
 <!--      <hr size="1" noshade="indeed"> -->
 <!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
       </div>-->
 
      

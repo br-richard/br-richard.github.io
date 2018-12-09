@@ -18,15 +18,15 @@ folder: formulare
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Formular für Führerscheinverlängerung<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/fuehrers.pdf"><img alt="Formular für Führerscheinverlängerung" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 109 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/fuehrers.pdf"><img alt="Formular für Führerscheinverlängerung" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 109 KB</a><br>
 <br>      Arbeitnehmerveranlagung 2008<br>
-      <a target="_blank" href="https://br-richard.github.io/uploads/L1.pdf"><img alt="Arbeitnehmerveranlagung 2008" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 489 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/L1.pdf"><img alt="Arbeitnehmerveranlagung 2008" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 489 KB</a><br>
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Führerscheinantrag</h1>
       

@@ -21,6 +21,6 @@ folder: topnav
   </td>
  </tr> 
  <tr>
-  <td colspan="2" class="lauftext"><a target="_blank" href="http://www.hierstehteinlink.at" class="quick_nav_bold"><img alt="Hier kann ein Link stehen" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">Hier kann ein Link stehen</a></td>
+  <td colspan="2" class="lauftext"><a target="_blank" href="http://www.hierstehteinlink.at" class="quick_nav_bold"><img alt="Hier kann ein Link stehen" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Hier kann ein Link stehen</a></td>
  </tr>
 </tbody></table>

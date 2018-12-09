@@ -681,7 +681,7 @@ folder: index
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>Wichtig! WEITERBILDUNG</h1>
       
@@ -695,8 +695,8 @@ folder: index
 
 <!--      <hr size="1" noshade="indeed"> -->
 <!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
       </div>-->
 
      
@@ -760,7 +760,7 @@ folder: index
  </tr>
  <tr>
   <td><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="40" height="40" alt=""></td>
-  <td align="right"><a href="javascript:window.close()" class="quick_nav_bold"><img alt="Fenster schließen" border="0" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11"> Fenster schließen</a></td>
+  <td align="right"><a href="javascript:window.close()" class="quick_nav_bold"><img alt="Fenster schließen" border="0" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11"> Fenster schließen</a></td>
   <td></td>
  </tr>
  <tr><td colspan="3" class="popuppagedivider1"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="1"></td></tr>
@@ -792,9 +792,9 @@ folder: index
 			
 			
       
-      <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
+      <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
-      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Cartina.pps"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 105 KB</a><br>
+      <a target="_blank" href="http://netzwerke.oegb.at/br_richard/data/upload/Cartina.pps"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 105 KB</a><br>
 <br>      
 <br>      
 <br>      
@@ -807,7 +807,7 @@ folder: index
       
       <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" height="3"><br>
      </td>
-     <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="1" alt=""></td>
+     
      <td class="article" valign="top">
       <h1>EUROPA</h1>
       <h2>Europa</h2>
@@ -827,8 +827,8 @@ Viel Spaß
 
 <!--      <hr size="1" noshade="indeed"> -->
 <!--      <div align="right">
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
-       <a href="#" class="quick_nav_bold"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Online-Bestellen</a>&nbsp; &nbsp;
+       <a href="#" class="quick_nav_bold"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0" />Anfrage</a>
       </div>-->
 
      
@@ -1049,7 +1049,7 @@ Viel Spaß
 <!--folder.content.displayObject.teaserright-->
 						<table summary="" cellpadding="0" border="0" cellspacing="0">
 							<tbody><tr>
-								<td class="lauftext"><a target="_blank" href="http://meinfernbus.at/" class="quick_nav_bold"><img alt="meinfernbus" src="http://netzwerke.oegb.at/br_richard/data/upload/Fernbus.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">meinfernbus</a></td>
+								<td class="lauftext"><a target="_blank" href="http://meinfernbus.at/" class="quick_nav_bold"><img alt="meinfernbus" src="http://netzwerke.oegb.at/br_richard/data/upload/Fernbus.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">meinfernbus</a></td>
 							</tr>
 						</tbody></table>
 <!--folder.content.displayObject.teaserright--><!-- R:0.0034258365631104  --></td>
@@ -1064,7 +1064,7 @@ Viel Spaß
 <!--folder.content.displayObject.teaserright-->
 						<table summary="" cellpadding="0" border="0" cellspacing="0">
 							<tbody><tr>
-								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;L2=e71db0acb494c98bd174951a50cb6160&amp;" class="quick_nav_bold"><img alt="Konzernbetriebsrat" src="http://netzwerke.oegb.at/br_richard/data/upload/teaser_konzernbetriebsrat.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">Konzernbetriebsrat</a></td>
+								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;L2=e71db0acb494c98bd174951a50cb6160&amp;" class="quick_nav_bold"><img alt="Konzernbetriebsrat" src="http://netzwerke.oegb.at/br_richard/data/upload/teaser_konzernbetriebsrat.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Konzernbetriebsrat</a></td>
 							</tr>
 						</tbody></table>
 <!--folder.content.displayObject.teaserright--><!-- R:0.0033369064331055  --></td>
@@ -1079,7 +1079,7 @@ Viel Spaß
 <!--folder.content.displayObject.teaserright-->
 						<table summary="" cellpadding="0" border="0" cellspacing="0">
 							<tbody><tr>
-								<td class="lauftext"><a target="_blank" href="http://www.arbeiterkammer.at/" class="quick_nav_bold"><img alt="Zur Arbeiterkammer" src="http://netzwerke.oegb.at/br_richard/data/upload/AK_Logo.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">Arbeiterkammer</a></td>
+								<td class="lauftext"><a target="_blank" href="http://www.arbeiterkammer.at/" class="quick_nav_bold"><img alt="Zur Arbeiterkammer" src="http://netzwerke.oegb.at/br_richard/data/upload/AK_Logo.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Arbeiterkammer</a></td>
 							</tr>
 						</tbody></table>
 <!--folder.content.displayObject.teaserright--><!-- R:0.0032861232757568  --></td>
@@ -1094,7 +1094,7 @@ Viel Spaß
 <!--folder.content.displayObject.teaserright-->
 						<table summary="" cellpadding="0" border="0" cellspacing="0">
 							<tbody><tr>
-								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=190312a1b592530191481848733780e7&amp;L2=98e66dd3bfd383a6eb84f3672e65ea61&amp;L3=b86aad50f89a9b269e4c4b839be2f02b&amp;" class="quick_nav_bold"><img alt="Anfrageformular" src="http://netzwerke.oegb.at/br_richard/data/upload/Teaser.png" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">Mail an den BR</a></td>
+								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=190312a1b592530191481848733780e7&amp;L2=98e66dd3bfd383a6eb84f3672e65ea61&amp;L3=b86aad50f89a9b269e4c4b839be2f02b&amp;" class="quick_nav_bold"><img alt="Anfrageformular" src="http://netzwerke.oegb.at/br_richard/data/upload/Teaser.png" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Mail an den BR</a></td>
 							</tr>
 						</tbody></table>
 <!--folder.content.displayObject.teaserright--><!-- R:0.0033071041107178  --></td>
@@ -1109,7 +1109,7 @@ Viel Spaß
 <!--folder.content.displayObject.teaserright-->
 						<table summary="" cellpadding="0" border="0" cellspacing="0">
 							<tbody><tr>
-								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;L2=8c40e4083c0984aa9b59085bce3b9951&amp;" class="quick_nav_bold"><img alt="Führerscheinverlängerung" src="http://netzwerke.oegb.at/br_richard/data/upload/Formulare 01.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/contentarrow.gif" width="8" height="11" border="0">FORMULARE</a></td>
+								<td class="lauftext"><a href="http://netzwerke.oegb.at/br_richard/ContentServer?pagename=Netzwerke/Index&amp;nw=br_richard&amp;L0=09f4097c90ebcea3e938110a15ea960b&amp;L1=8bfdfb3e09fc12a35139d5e6e9b58c04&amp;L2=8c40e4083c0984aa9b59085bce3b9951&amp;" class="quick_nav_bold"><img alt="Führerscheinverlängerung" src="http://netzwerke.oegb.at/br_richard/data/upload/Formulare 01.jpg" border="0"><br><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3" border="0" alt=""><br><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">FORMULARE</a></td>
 							</tr>
 						</tbody></table>
 <!--folder.content.displayObject.teaserright--><!-- R:0.0032980442047119  --></td>

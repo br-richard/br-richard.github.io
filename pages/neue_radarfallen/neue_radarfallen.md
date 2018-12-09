@@ -18,9 +18,9 @@ folder: neue_radarfallen
 
       <img src="https://br-richard.github.io/images/neue_radarfallen/Polizist.1.jpeg" alt="" border="0"><br>
 
-      <img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads
+      <img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads<br>
 
-      <a target="_blank" href="https://br-richard.github.io/uploads/Neue_Radarfallen.pps"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 2095 KB</a><br>
+      <a target="_blank" href="https://br-richard.github.io/uploads/Neue_Radarfallen.pps"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 2095 KB</a>
 
     </td>
 

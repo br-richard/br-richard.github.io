@@ -125,6 +125,10 @@ entries:
           url: /unsere_betriebe/watzke/mitteilungen.html
           output: web
 
+        - title: Standorte
+          url: /unsere_betriebe/watzke/standorte.html
+          output: web
+
   - title: Aktuelles
     output: web
     folderitems:

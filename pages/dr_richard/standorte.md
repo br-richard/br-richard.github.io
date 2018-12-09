@@ -23,9 +23,10 @@ folder: dr_richard
      <td class="article" valign="top">
       <h1>Zentrale</h1>
       
-      <h3 id="stromstraße-11-1201-wien-tel-43-1-33-100">Stromstraße 11, 1201 Wien, Tel.: +43 (1) 33 100 ...<a class="anchorjs-link " href="#stromstraße-11-1201-wien-tel-43-1-33-100" aria-label="Anchor link for: stromstraße 11 1201 wien tel 43 1 33 100" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3>
+      <!-- <h3 id="stromstraße-11-1201-wien-tel-43-1-33-100">Stromstraße 11, 1201 Wien, Tel.: +43 (1) 33 100 ...<a class="anchorjs-link " href="#stromstraße-11-1201-wien-tel-43-1-33-100" aria-label="Anchor link for: stromstraße 11 1201 wien tel 43 1 33 100" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3> -->
+      <p>Stromstraße 11, 1201 Wien, Tel.: +43 1 33 100 355</p>
       <hr size="1" noshade="sure">
-   		<p>In der Zentrale befindet sich die Hauptwerkstatt, Waschanlage, Tankstelle und Büros.</p>
+      <p>In der Zentrale befindet sich die Hauptwerkstatt, Waschanlage, Tankstelle und Büros.</p>
       <div class="articlefooter"></div>
 
 

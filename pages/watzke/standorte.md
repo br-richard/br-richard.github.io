@@ -15,14 +15,6 @@ folder: watzke
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/watzke/Auto_15.gif" alt="" border="0"><br>
       
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
       <a target="_blank" href="https://br-richard.github.io/uploads/Puchstr_176a.jpg"><img alt="" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 55 KB</a><br>
@@ -51,9 +43,6 @@ folder: watzke
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -63,14 +52,6 @@ folder: watzke
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/watzke/Auto_16.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
@@ -99,11 +80,6 @@ folder: watzke
 <!-- R:0.2032151222229  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 2f68ea0d2656284e171b4801d9088ba9 -->
@@ -112,14 +88,6 @@ folder: watzke
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/watzke/Auto_18.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
@@ -145,6 +113,5 @@ folder: watzke
 
 <!-- R:0.2034637928009  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
+
    </tbody>

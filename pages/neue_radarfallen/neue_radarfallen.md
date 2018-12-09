@@ -10,14 +10,6 @@ folder: neue_radarfallen
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/neue_radarfallen/Polizist.1.jpeg" alt="" border="0"><br>
       
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Hier runterladen!<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Neue_Radarfallen.pps"><img alt="Hier runterladen!" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PPS-Datei, 2095 KB</a><br>

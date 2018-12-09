@@ -16,8 +16,6 @@ folder: albus
                 <tbody>
                 <tr width="450">
                     
-                    <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                                        height="1" alt=""></td>
                     <td class="article" valign="top">
                         <h1>Glueckwunsch</h1>
 
@@ -51,8 +49,6 @@ folder: albus
                 <tbody>
                 <tr width="450">
                     
-                    <td width="15"><img src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                                        height="1" alt=""></td>
                     <td class="article" valign="top">
                         <h1>Nachverrechnung</h1>
                         <h2 id="br-team-albus">BR - Team Albus<a class="anchorjs-link " href="#br-team-albus"

@@ -9,15 +9,6 @@ folder: unfallgefahr
 <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/unfallgefahr/Auto_13.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Sturz aus Schulbus<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Tuersturz.jpg"><img alt="Sturz aus Schulbus" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">JPG-Datei, 599 KB</a><br>

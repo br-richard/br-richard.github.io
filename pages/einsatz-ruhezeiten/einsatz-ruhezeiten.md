@@ -14,14 +14,8 @@ folder: einsatz-ruhezeiten
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/einsatz-ruhezeiten/Ampel_02.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
+
+
       <div><img src="http://netzwerke.oegb.at/br_richard/data/images/article/linktipps.gif" width="8" height="9" alt="">&nbsp;Linktipps</div>
       <a target="_blank" href="http://wko.at/bus/Fahrerhandbuch.pdf"><img alt="Druck dir das für Dich wichtige aus!" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">Druck dir das für Dich wichtige aus!</a><br>
       
@@ -60,10 +54,6 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : ed54424bc74e9839b285be356073234a -->
@@ -72,14 +62,6 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/einsatz-ruhezeiten/Auto_13.1.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       
@@ -115,6 +97,5 @@ Natürlich könnt Ihr Euch die für Euch wichtigen Seiten auch ausdrucken um sie
 
 <!-- R:0.19947695732117  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
+
    </tbody>

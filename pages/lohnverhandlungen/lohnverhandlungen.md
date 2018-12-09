@@ -10,12 +10,7 @@ folder: lohnverhandlungen
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/lohnverhandlungen/Eurostorch.gif" alt="" border="0"><br>
       
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3"><br>Unten anklicken!<br>
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
+      <br>Unten anklicken!<br>
 			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>

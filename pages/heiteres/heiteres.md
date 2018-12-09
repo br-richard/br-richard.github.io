@@ -33,10 +33,6 @@ folder: heiteres
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 04c18e01fd87b7f668cd0b0b22dc1e86 -->
@@ -63,10 +59,6 @@ folder: heiteres
 <!-- R:0.19955396652222  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -104,10 +96,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 27768bbd43729851559d3622bc4593bc -->
@@ -135,9 +123,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -166,10 +151,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 24b1f5b78d924ddd0f7fcf74a04dcc04 -->
@@ -182,11 +163,7 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
       <h1>Ostervorbereitung</h1>
       
       <h3>Na dann sind ja unsere Ostereier wieder gesichert!</h3>
-      <img src="https://br-richard.github.io/images/heiteres/Osterhase.gif" alt="" border="0"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="3"><br>
-      
-      
-			
-   		
+      <img src="https://br-richard.github.io/images/heiteres/Osterhase.gif" alt="" border="0">
       <div class="articlefooter"></div>
 
      </td>
@@ -196,10 +173,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 <!-- R:0.18362808227539  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -231,10 +204,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 7a071679d56a4285387ff264c0daea0d -->
@@ -260,10 +229,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 <!-- R:0.19649505615234  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -292,10 +257,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 2a86c1ae1658ca821ad875d84990bb1e -->
@@ -321,10 +282,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 <!-- R:0.19185709953308  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -352,10 +309,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 741af46200f3f4693e95e43578443eb7 -->
@@ -382,10 +335,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 37fcf8dd70e993832b9bb92069a99146 -->
@@ -410,11 +359,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 
 <!-- R:0.19606184959412  --></td>
     </tr>
-
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -442,10 +386,6 @@ ins Leintuch schnäuzen, dass alle glauben du kannst noch??!"</p>
 <!-- R:0.19056081771851  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -475,10 +415,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 7cae4b11275c51ebdae4cbbb3c9023bc -->
@@ -506,10 +442,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 74eae8bb3e20132b6e8ccca97594a6cd -->
@@ -535,10 +467,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 <!-- R:0.19820594787598  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -566,10 +494,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : f663ad8027dc39327e33b6d3bb4310f6 -->
@@ -578,14 +502,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/heiteres/ameise1.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Die fleißige Ameise<br>
@@ -612,10 +528,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : 7362165edb94849ebb116977b91fe1d6 -->
@@ -624,14 +536,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/heiteres/Stern_01.gif" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Dein Horoskop<br>
@@ -657,11 +561,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 <!-- R:0.21543598175049  --></td>
     </tr>
 
-
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-
     <tr>
      <td valign="top">
 <!-- cacheInfo : b85a889399acc6252ef84df49ddd50ac -->
@@ -670,14 +569,6 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
     <tbody><tr width="450">
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/heiteres/Hierachie.jpg" alt="" border="0"><br>
-      
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
       
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Hierarchie<br>
@@ -702,6 +593,5 @@ Er klopft drauf und schreit: "AUFMACHEN POLIZEI!"</p>
 
 <!-- R:0.20192217826843  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
+
    </tbody>

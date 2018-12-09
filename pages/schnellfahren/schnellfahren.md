@@ -10,14 +10,6 @@ folder: schnellfahren
      <td valign="top" class="articleleftcolumn">
       <img src="https://br-richard.github.io/images/schnellfahren/Polizeiauto.gif" alt="" border="0"><br>
       
-      
-			<img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="7"><br>
-			
-      
-      
-			
-			
-      
       <div><img src="https://br-richard.github.io/images/symbols/downloads.gif" width="8" height="9" alt="Downloads">&nbsp;Downloads</div>
       Neue Strafen in €<br>
       <a target="_blank" href="https://br-richard.github.io/uploads/Strafen_im_Verkehr_Neuerungen_2012.pdf"><img alt="Neue Strafen in €" src="https://br-richard.github.io/images/symbols/contentarrow.gif" width="8" height="11" border="0">PDF-Datei, 98 KB</a><br>

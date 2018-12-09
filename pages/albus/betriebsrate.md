@@ -21,8 +21,6 @@ folder: albus
         <td width="217" class="kontaktimage" align="center" valign="middle">
          <img src="https://br-richard.github.io/images/albus/Stefaner_15.jpg" alt="Freimut STEFANER" border="0">
         </td>
-        <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                            height="160"><br></td>
        </tr>
        </tbody>
       </table>
@@ -52,8 +50,6 @@ folder: albus
         <td width="217" class="kontaktimage" align="center" valign="middle">
          <img src="https://br-richard.github.io/images/albus/Stueblo_15.jpg" alt="Adolf STÜBLO" border="0">
         </td>
-        <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                            height="160"><br></td>
        </tr>
        </tbody>
       </table>
@@ -117,8 +113,6 @@ folder: albus
         <td width="217" class="kontaktimage" align="center" valign="middle">
          <img src="https://br-richard.github.io/images/albus/Heuberger_15.jpg" alt="Alois HEUBERGER" border="0">
         </td>
-        <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                            height="160"><br></td>
        </tr>
        </tbody>
       </table>
@@ -152,8 +146,6 @@ folder: albus
         <td width="217" class="kontaktimage" align="center" valign="middle">
          <img src="https://br-richard.github.io/images/albus/Nikolic_15.jpg" alt="Mikica NIKOLIC" border="0">
         </td>
-        <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15"
-                            height="160"><br></td>
        </tr>
        </tbody>
       </table>

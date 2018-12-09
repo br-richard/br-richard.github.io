@@ -28,7 +28,7 @@ folder: albus
       </table>
      </td>
      <td valign="top" class="lauftext" width="217">
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+      
       <span class="kontaktname">Herr Freimut STEFANER </span><br>
       <span class="kontaktfunktion">Vorsitzender</span><br>
       5020 Salzburg
@@ -59,7 +59,7 @@ folder: albus
       </table>
      </td>
      <td valign="top" class="lauftext" width="217">
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+      
       <span class="kontaktname">Herr Adolf STÜBLO </span><br>
       <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
       <br>Kirchstättstraße 4<br>
@@ -85,13 +85,13 @@ folder: albus
         <td width="217" class="kontaktimage" align="center" valign="middle">
          <img src="https://br-richard.github.io/images/albus/Kelemen_15.jpg" alt="Karl Georg KELEMEN" border="0">
         </td>
-        <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+        
        </tr>
        </tbody>
       </table>
      </td>
      <td valign="top" class="lauftext" width="217">
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+      
       <span class="kontaktname">Herr Karl Georg KELEMEN </span><br>
       <span class="kontaktfunktion">Kassier</span><br>
       <br>Ernst - Mach-Straße 26<br>
@@ -124,7 +124,7 @@ folder: albus
       </table>
      </td>
      <td valign="top" class="lauftext" width="217">
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+      
       <span class="kontaktname">Herr Alois HEUBERGER </span><br>
       <span class="kontaktfunktion">BR</span><br>
       <br>Watzmannstraße 13<br>
@@ -159,7 +159,7 @@ folder: albus
       </table>
      </td>
      <td valign="top" class="lauftext" width="217">
-      <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+      
       <span class="kontaktname">Herr Mikica NIKOLIC </span><br>
       <span class="kontaktfunktion">BR</span><br>
       <br>Peter-Pfenninger-Straße 35/11<br>

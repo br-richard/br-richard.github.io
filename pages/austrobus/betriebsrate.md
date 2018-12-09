@@ -20,12 +20,12 @@ folder: austrobus
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Vlado IGNATOVIC </span><br>
    <span class="kontaktfunktion">Vorsitzender</span><br>
    
@@ -62,12 +62,12 @@ folder: austrobus
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Mitar LAZAREVIC </span><br>
    <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
    <br>Friedrichstraße 6/12<br>
@@ -104,12 +104,12 @@ folder: austrobus
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Dragisa FIRULOVIC </span><br>
    <span class="kontaktfunktion">Schriftfuehrer</span><br>
    <br>Seyringerstrasse 17/2/19<br>
@@ -146,12 +146,12 @@ folder: austrobus
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Nenad FIKULOVIC </span><br>
    <span class="kontaktfunktion">Kassier</span><br>
    <br>Neubaugasse 88/17<br>

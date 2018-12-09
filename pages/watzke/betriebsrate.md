@@ -20,12 +20,12 @@ folder: watzke
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Rupert BURGER </span><br>
    <span class="kontaktfunktion">Vorsitzender</span><br>
    <br>Langegg-Ort 45<br>
@@ -35,9 +35,9 @@ folder: watzke
    <br><a href="mailto:rupert.burger@outlook.com" class="kontaktemail">rupert.burger@outlook.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011853933334351  --></td>
@@ -57,7 +57,7 @@ folder: watzke
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Selman HASANI </span><br>
    <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
    
@@ -67,9 +67,9 @@ folder: watzke
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.017701148986816  --></td>
@@ -89,7 +89,7 @@ folder: watzke
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Erwin TESIC </span><br>
    <span class="kontaktfunktion">Betriebsrat</span><br>
    
@@ -99,9 +99,9 @@ folder: watzke
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.017551898956299  --></td>
@@ -121,7 +121,7 @@ folder: watzke
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr NEUHERZ </span><br>
    <span class="kontaktfunktion">Betriebsrat</span><br>
    
@@ -131,9 +131,9 @@ folder: watzke
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.018794059753418  --></td>
@@ -153,7 +153,7 @@ folder: watzke
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Wolfgang LARISEGGER </span><br>
    <span class="kontaktfunktion">Betriebsrat</span><br>
    
@@ -163,9 +163,9 @@ folder: watzke
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.018050193786621  --></td>

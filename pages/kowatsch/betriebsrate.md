@@ -20,12 +20,12 @@ folder: kowatsch
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Richard ROM </span><br>
    <span class="kontaktfunktion">BR Vorsitzender</span><br>
    
@@ -35,9 +35,9 @@ folder: kowatsch
    <br><a href="mailto:br-bus.kowatsch@gmx.at" class="kontaktemail">br-bus.kowatsch@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.012928009033203  --></td>
@@ -62,12 +62,12 @@ folder: kowatsch
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Robert Kassl </span><br>
    <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
    <br>Vassacher Straße 10<br>
@@ -77,9 +77,9 @@ folder: kowatsch
    <br><a href="mailto:br-bus.kowatsch@gmx.at" class="kontaktemail">br-bus.kowatsch@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011660099029541  --></td>
@@ -104,12 +104,12 @@ folder: kowatsch
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Richard WEBER </span><br>
    <span class="kontaktfunktion">Schriftführer</span><br>
    <br>Markus Pernhartstraße 20<br>
@@ -119,9 +119,9 @@ folder: kowatsch
    <br><a href="mailto:br-bus.kowatsch@gmx.at" class="kontaktemail">br-bus.kowatsch@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011677026748657  --></td>

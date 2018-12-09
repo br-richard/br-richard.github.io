@@ -20,12 +20,12 @@ folder: suedburg
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Reinhold PIERER </span><br>
    <span class="kontaktfunktion">Vorsitzender</span><br>
    
@@ -35,9 +35,9 @@ folder: suedburg
    <br><a href="mailto:betriebsratsuedburg2006@gmail.com" class="kontaktemail">betriebsratsuedburg2006@gmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.013036966323853  --></td>
@@ -62,12 +62,12 @@ folder: suedburg
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Roland HEMMER </span><br>
    <span class="kontaktfunktion">Schriftführer</span><br>
    <br>Daserweg 1<br>
@@ -77,9 +77,9 @@ folder: suedburg
    <br><a href="mailto:rolland.hemmer@aon.at" class="kontaktemail">rolland.hemmer@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.010756015777588  --></td>
@@ -99,7 +99,7 @@ folder: suedburg
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Manfred KARNER </span><br>
    
    
@@ -109,9 +109,9 @@ folder: suedburg
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.017876863479614  --></td>
@@ -131,7 +131,7 @@ folder: suedburg
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Erwin KROPF </span><br>
    
    
@@ -141,9 +141,9 @@ folder: suedburg
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.018550157546997  --></td>

@@ -50,12 +50,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Rupert BURGER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsratvorsitzender</span><br>
    <br>Langegg-Ort 45<br>
@@ -65,11 +65,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:rupert.burger@a1.net" class="kontaktemail">rupert.burger@a1.net</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Watzke</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.01073694229126  --></td>
@@ -91,12 +91,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Richard ROM </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat &amp; 1. Stellvertreter</span><br>
    <br>Dr. Semmelweißstraße 18<br>
@@ -106,11 +106,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:ricrom@aon.at" class="kontaktemail">ricrom@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Kowatsch</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010905027389526  --></td>
@@ -132,12 +132,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Freimut STEFANER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat &amp; 2. Stellvertreter</span><br>
    <br>Schrannengasse 10 C<br>
@@ -147,11 +147,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:freimut.stefaner@tmo.at" class="kontaktemail">freimut.stefaner@tmo.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Albus</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010968923568726  --></td>
@@ -173,12 +173,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Hr. Ferdinand TLACVODA </span><br>
    <span class="kontaktfunktion">Konzernbetriebsratkassier</span><br>
    
@@ -188,11 +188,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:ferdl.t@gmx.at" class="kontaktemail">ferdl.t@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">3. Vorsitzender StV. und Kassier bei Fa. Dr. Richard</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.012167930603027  --></td>
@@ -214,12 +214,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Arnold SCHMIDT </span><br>
    <span class="kontaktfunktion">Konzernbetriebsratvorsitzenderstellvertreter</span><br>
    <br>Reischenbachweg 4<br>
@@ -229,11 +229,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:arnold.schmidt@a1.net" class="kontaktemail">arnold.schmidt@a1.net</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Salzkraft</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010947942733765  --></td>
@@ -255,12 +255,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Frau Eva Maria JANASEK </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrätin &amp; Schriftführerin</span><br>
    <br>Samstraße 65<br>
@@ -270,11 +270,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:eva.janasek@sbg.at" class="kontaktemail">eva.janasek@sbg.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Marazeck</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.011362791061401  --></td>
@@ -296,12 +296,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Nikola MONOVIC </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Dreyhausenstraße 14/12<br>
@@ -311,11 +311,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:josef_schoen@gmx.at" class="kontaktemail">josef_schoen@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Dr. Richard</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.0098419189453125  --></td>
@@ -337,12 +337,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Günther BAVRATEK </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Sendnergasse 23-25/3/2/8<br>
@@ -352,11 +352,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:g.navratek@gmx.at" class="kontaktemail">g.navratek@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Betriebsrat bei Fa. Dr. Richard</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.0098311901092529  --></td>
@@ -378,12 +378,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Adolf STÜBLO </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Kirchstättstraße 4<br>
@@ -393,11 +393,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:adolf.stueblo@gmx.at" class="kontaktemail">adolf.stueblo@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender StV. und Kassier bei Fa. Albus</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010874032974243  --></td>
@@ -419,12 +419,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Rudolf REISINGER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Alte Marktstraße 5<br>
@@ -434,11 +434,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:rudi.reisinger@aon.at" class="kontaktemail">rudi.reisinger@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Dr. Richard NÖ</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010826826095581  --></td>
@@ -460,12 +460,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Herbert ZELLER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Fahndorf 101<br>
@@ -475,11 +475,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:herbert.zeller@aon.at" class="kontaktemail">herbert.zeller@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender Stv. und Kassier bei Fa. Dr. Richard NÖ</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010849952697754  --></td>
@@ -501,12 +501,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Vlado IGNATOVIC </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Jörgerstraße 19/1/1<br>
@@ -516,11 +516,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:betriebsrat.austrobus@gmail.com" class="kontaktemail">betriebsrat.austrobus@gmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Austrobus</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010976076126099  --></td>
@@ -542,12 +542,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Mitar LAZAREVIC </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Friedrichstraße 6/12<br>
@@ -557,11 +557,11 @@ folder: konzernbetriebsrat
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender Stellvertreter bei Fa. Austrobus</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.011851072311401  --></td>
@@ -583,12 +583,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Vojislav DJOKIC </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Frauenfelderstraße 9/3<br>
@@ -598,11 +598,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:djokicv1@gmail.com" class="kontaktemail">djokicv1@gmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender bei Fa. Kolda</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010787010192871  --></td>
@@ -624,12 +624,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Wolfgang PÖPPEL </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Marienhofstr 24<br>
@@ -639,11 +639,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:wolfgang.p1@gmx.net" class="kontaktemail">wolfgang.p1@gmx.net</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Kassier bei Fa. Kolda</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.011362075805664  --></td>
@@ -665,12 +665,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Robert KASSL </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Vassacher Straße 10<br>
@@ -680,11 +680,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:br-bus.kowatsch@gmx.at" class="kontaktemail">br-bus.kowatsch@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Kowatsch</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010924816131592  --></td>
@@ -706,12 +706,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Josef MACKINGER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Julius-Welser-Strasse 8<br>
@@ -721,11 +721,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:oberascher.peter@aon.at" class="kontaktemail">oberascher.peter@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender StV. bei Fa. Marazeck</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010836124420166  --></td>
@@ -747,12 +747,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Reinhold PIERER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Wiesfleck 233<br>
@@ -762,11 +762,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:reini.pierer@hotmail.com" class="kontaktemail">reini.pierer@hotmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Vorsitzender Stellvertreter bei Fa. Südburg</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010871171951294  --></td>
@@ -788,12 +788,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Roland HEMMER </span><br>
    <span class="kontaktfunktion">Konzernbetriebsrat</span><br>
    <br>Daserweg 1<br>
@@ -803,11 +803,11 @@ folder: konzernbetriebsrat
    <br><a href="mailto:rolland.hemmer@aon.at" class="kontaktemail">rolland.hemmer@aon.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Schriftführer bei Fa. Südburg</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.010787010192871  --></td>
@@ -829,12 +829,12 @@ folder: konzernbetriebsrat
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Hermann OSWALD </span><br>
    <span class="kontaktfunktion">Ehrenvorsitzender und Gründer des KBR</span><br>
    <br>Hofkirchen 125<br>
@@ -844,12 +844,12 @@ folder: konzernbetriebsrat
    <br><a href="mailto:h.oswald@gmx.at" class="kontaktemail">h.oswald@gmx.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">War 12 Jahre Konzernvorsitzender bei Dr. Richard <br>
 Ist leider am 17.09.2015 verstorben. +</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.011916875839233  --></td>
@@ -871,12 +871,12 @@ Ist leider am 17.09.2015 verstorben. +</td>
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Janez GRAH </span><br>
    <span class="kontaktfunktion">Ehrenkonzerngründungsmitglied</span><br>
    <br>Hernalser Hauptstr. 31/1/7<br>
@@ -886,16 +886,15 @@ Ist leider am 17.09.2015 verstorben. +</td>
    <br><a href="mailto:j.grah@betriebsrat-dr-richard.jet2web.at" class="kontaktemail">j.grah@betriebsrat-dr-richard.jet2web.at</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  <tr>
   <td colspan="2" class="lauftext">Ehrenmitglied im Konzern BR</td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
  
  
 </tbody></table><!-- R:0.0098638534545898  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
+
     
    </tbody>

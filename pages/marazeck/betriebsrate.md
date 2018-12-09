@@ -20,12 +20,12 @@ folder: marazeck
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Frau Eva Maria JANASEK </span><br>
    <span class="kontaktfunktion">Vorsitzende</span><br>
    <br>Julius-Welser-Strasse 8<br>
@@ -35,18 +35,16 @@ folder: marazeck
    <br><a href="mailto:janasek1972@hotmail.com" class="kontaktemail">janasek1972@hotmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011843919754028  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+    
 
     <tr>
      <td valign="top">
@@ -57,7 +55,7 @@ folder: marazeck
    
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Frau Heidi FURTLEHNER </span><br>
    <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
    <br>Julius-Welser-Strasse 8<br>
@@ -67,18 +65,16 @@ folder: marazeck
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.014030933380127  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
+
 
     <tr>
      <td valign="top">
@@ -94,12 +90,12 @@ folder: marazeck
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Josef MACKINGER </span><br>
    <span class="kontaktfunktion">Schriftführer</span><br>
    <br>Julius-Welser-Strasse 8<br>
@@ -109,18 +105,15 @@ folder: marazeck
    
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.012748003005981  --></td>
     </tr>
 
 
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
-    <tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
 
     <tr>
      <td valign="top">
@@ -136,12 +129,12 @@ folder: marazeck
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Alexander HAWLIN </span><br>
    <span class="kontaktfunktion">BR</span><br>
    <br>Julius-Welser-Strasse 8<br>
@@ -151,14 +144,13 @@ folder: marazeck
    <br><a href="mailto:alex_hawlin@hotmail.com" class="kontaktemail">alex_hawlin@hotmail.com</a>
   </td>
  </tr>
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
  
- <tr><td colpspan="2"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"></td></tr>
+ 
+ 
  
  
 </tbody></table><!-- R:0.011707067489624  --></td>
     </tr>
-<tr><td><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="10"></td></tr>
-    <tr><td class="contentdivider"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="450" height="1"></td></tr>
+
     
    </tbody>

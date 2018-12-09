@@ -21,12 +21,12 @@ folder: dr_richard_noe
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Rudolf REISINGER </span><br>
    <span class="kontaktfunktion">Vorsitzender</span><br>
    
@@ -63,12 +63,12 @@ folder: dr_richard_noe
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Herbert ZELLER </span><br>
    <span class="kontaktfunktion">BRStv. &amp; Schriftführer</span><br>
    <br>Fahndorf 101  <br>
@@ -105,12 +105,12 @@ folder: dr_richard_noe
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Andreas KRIMBACHER </span><br>
    <span class="kontaktfunktion">Kassier</span><br>
    <br>Velm-Götzendorf 5<br>
@@ -147,12 +147,12 @@ folder: dr_richard_noe
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Reinharth GRÜNBERGER </span><br>
    <span class="kontaktfunktion">BR</span><br>
    <br>Zwingendorf 11<br>
@@ -189,12 +189,12 @@ folder: dr_richard_noe
      
 		 
      </td>
-     <td width="15"><img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="15" height="160"><br></td>
+     
     </tr>
    </tbody></table>
   </td>
   <td valign="top" class="lauftext" width="217">
-   <img alt="" src="http://netzwerke.oegb.at/br_richard/data/images/1x1.gif" width="1" height="5"><br>
+   
    <span class="kontaktname">Herr Robert GIELER </span><br>
    <span class="kontaktfunktion">BR</span><br>
    <br>Purgstall 16  <br>

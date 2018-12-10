@@ -374,6 +374,14 @@ background-color: #347DBE;
     padding: 4px 10px;
 }
 
+#mysidebar .nav li a {
+    padding: 5px 10px;
+}
+
+#mysidebar .nav > li > a {
+    padding: 10px 10px;
+}
+
 ul#mysidebar {
     border-radius:0px;
 }

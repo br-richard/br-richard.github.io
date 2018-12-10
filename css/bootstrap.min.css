@@ -5343,7 +5343,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav>.active>a:focus,
 .navbar-inverse .navbar-nav>.active>a:hover {
     color: #fff;
-    background-color: #486729
+    background-color: #486729;
 }
 
 .navbar-inverse .navbar-nav>.disabled>a,

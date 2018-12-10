@@ -32,8 +32,7 @@ permalink: index.html
         <tbody>
         <tr>
             <td align="center" valign="middle" width="100%" class="popupimagebox">
-                <img alt="Gesundheit geht JEDEN an, klicke den Link " gesundheit"="" an"=""
-                src="https://br-richard.github.io/images/index/Rettungsauto.gif" border="0">
+                <img alt="Gesundheit geht JEDEN an, klicke den Link" src="https://br-richard.github.io/images/index/Rettungsauto.gif" border="0">
             </td>
         </tr>
         <tr>

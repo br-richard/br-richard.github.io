@@ -4,20 +4,12 @@ topnav:
 - title: Topnav
   items:
     - title: Links
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: Links
       url: /links.html
+    - title: Suche
+      url: /suche.html
     - title: Hilfe
       url: /hilfe.html
     - title: Kontakt
       url: /kontakt.html
-
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Jekyll Help
-      folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Product 1
-          url: /p1_landing_page.html
+    - title: Home
+      url: /index.html

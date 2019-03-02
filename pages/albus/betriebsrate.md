@@ -6,6 +6,9 @@ sidebar: admin_sidebar
 folder: albus
 ---
 
+<table>
+</table>
+
 <table cellpadding="0" cellspacing="0" border="0" summary="">
  <tbody>
  <tr>

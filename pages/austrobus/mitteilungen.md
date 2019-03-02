@@ -7,4 +7,5 @@ folder: austrobus
 ---
 
 Derzeit gibt es keine neuen Mitteilungen.
-<table><tr><td></td></tr></table>
+
+<table><tbody><tr><th scope="col">asdf</th><td>&nbsp;</td></tr></tbody></table>

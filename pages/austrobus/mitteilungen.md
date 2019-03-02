@@ -7,3 +7,4 @@ folder: austrobus
 ---
 
 Derzeit gibt es keine neuen Mitteilungen.
+<table><tr><td></td></tr></table>

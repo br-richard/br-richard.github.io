@@ -6,169 +6,20 @@ sidebar: admin_sidebar
 folder: albus
 ---
 
-<table>
-    <tr>
-        <td>Hello</td>
-    </tr>
-</table>
+<table><tbody><tr><th scope="col"><img data-cms-popout-id="image-0" src="/images/albus/Stefaner_15.jpg" /></th><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Freimut STEFANER </span><br /><span class="kontaktfunktion">Vorsitzender</span><br />5020 Salzburg<br />Tel.: +43-664 814 14 66<br /><a class="kontaktemail" href="mailto:freimut.stefaner@tmo.at">freimut.stefaner@tmo.at</a></td></tr><tr><th scope="col"><img data-cms-popout-id="image-1" src="/images/albus/Stueblo_15.jpg" /></th><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Adolf ST&Uuml;BLO </span><br /><span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br /><br />Kirchst&auml;ttstra&szlig;e 4<br />5162 Obertrum<br />Tel.: +43-664 384 10 59<br /><a class="kontaktemail" href="mailto:adolf.stueblo@gmx.at">adolf.stueblo@gmx.at</a></td></tr></tbody></table>
 
-<table cellpadding="0" cellspacing="0" border="0" summary="">
- <tbody>
- <tr>
-  <td valign="top">
+| <table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td valign="top" class="lauftext"><table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td width="217" class="kontaktimage" align="center" valign="middle"><img alt="Freimut STEFANER" border="0" src="https://br-richard.github.io/images/albus/Stefaner_15.jpg" /></td></tr></tbody></table></td><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Freimut STEFANER </span><br /><span class="kontaktfunktion">Vorsitzender</span><br />5020 Salzburg<br />Tel.: +43-664 814 14 66<br /><a class="kontaktemail" href="mailto:freimut.stefaner@tmo.at">freimut.stefaner@tmo.at</a></td></tr></tbody></table><!--base32-4193mc1e60rk4e9j6cwkad9t64vk6d9r40g0-base32--> |
+| <!--base32-41hp2rv8cn4pwtkf40x20dtj68u3jchpccvk8e1gcrwk2t1pc5h66ck56njk8thtc9h36tk240-base32-->
 
-   <table cellpadding="0" cellspacing="0" border="0" summary="">
-    <tbody>
-    <tr>
-     <td valign="top" class="lauftext">
-      <table cellpadding="0" cellspacing="0" border="0" summary="">
-       <tbody>
-       <tr>
-        <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="https://br-richard.github.io/images/albus/Stefaner_15.jpg" alt="Freimut STEFANER" border="0">
-        </td>
-       </tr>
-       </tbody>
-      </table>
-     </td>
-     <td valign="top" class="lauftext" width="217">
-      
-      <span class="kontaktname">Herr Freimut STEFANER </span><br>
-      <span class="kontaktfunktion">Vorsitzender</span><br>
-      5020 Salzburg
-      <br>Tel.: +43-664 814 14 66
-      <br><a href="mailto:freimut.stefaner@tmo.at" class="kontaktemail">freimut.stefaner@tmo.at</a>
-     </td>
-    </tr>
-    </tbody>
-   </table><!-- R:0.012923955917358  --></td>
- </tr>
- <tr>
-  <td valign="top">
-   <!-- cacheInfo : 7224926c7480f91d6abc2e5e4f9bb3fb -->
-   <table cellpadding="0" cellspacing="0" border="0" summary="">
-    <tbody>
-    <tr>
-     <td valign="top" class="lauftext">
-      <table cellpadding="0" cellspacing="0" border="0" summary="">
-       <tbody>
-       <tr>
-        <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="https://br-richard.github.io/images/albus/Stueblo_15.jpg" alt="Adolf STÜBLO" border="0">
-        </td>
-       </tr>
-       </tbody>
-      </table>
-     </td>
-     <td valign="top" class="lauftext" width="217">
-      
-      <span class="kontaktname">Herr Adolf STÜBLO </span><br>
-      <span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br>
-      <br>Kirchstättstraße 4<br>
-      5162 Obertrum
-      <br>Tel.: +43-664 384 10 59
-      <br><a href="mailto:adolf.stueblo@gmx.at" class="kontaktemail">adolf.stueblo@gmx.at</a>
-     </td>
-    </tr>
-    <tr></tr>
-    </tbody>
-   </table><!-- R:0.011792898178101  --></td>
- </tr>
- <tr>
-  <td valign="top">
-   <!-- cacheInfo : 957d651e3f1fc7deb5980e35515af0e1 -->
-   <table cellpadding="0" cellspacing="0" border="0" summary="">
-    <tbody>
-    <tr>
-     <td valign="top" class="lauftext">
-      <table cellpadding="0" cellspacing="0" border="0" summary="">
-       <tbody>
-       <tr>
-        <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="https://br-richard.github.io/images/albus/Kelemen_15.jpg" alt="Karl Georg KELEMEN" border="0">
-        </td>
-        
-       </tr>
-       </tbody>
-      </table>
-     </td>
-     <td valign="top" class="lauftext" width="217">
-      
-      <span class="kontaktname">Herr Karl Georg KELEMEN </span><br>
-      <span class="kontaktfunktion">Kassier</span><br>
-      <br>Ernst - Mach-Straße 26<br>
-      5023 Salzburg
-      <br>Tel.: +43-650 761 99 98
-      <br>Fax.: 0662 43 42 21
-      <br><a href="mailto:sbg-benzinbruder@gmx.at" class="kontaktemail">sbg-benzinbruder@gmx.at</a>
-     </td>
-    </tr>
-    </tbody>
-   </table><!-- R:0.010795116424561  --></td>
- </tr>
- <tr>
-  <td valign="top">
-   <!-- cacheInfo : fbdf3d6eec10d0bf25a88dad233236af -->
-   <table cellpadding="0" cellspacing="0" border="0" summary="">
-    <tbody>
-    <tr>
-     <td valign="top" class="lauftext">
-      <table cellpadding="0" cellspacing="0" border="0" summary="">
-       <tbody>
-       <tr>
-        <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="https://br-richard.github.io/images/albus/Heuberger_15.jpg" alt="Alois HEUBERGER" border="0">
-        </td>
-       </tr>
-       </tbody>
-      </table>
-     </td>
-     <td valign="top" class="lauftext" width="217">
-      
-      <span class="kontaktname">Herr Alois HEUBERGER </span><br>
-      <span class="kontaktfunktion">BR</span><br>
-      <br>Watzmannstraße 13<br>
-      83278 Traunstein
-      <br>Tel.: +43-650 941 67 18
-      <br><a href="mailto:alois.heuberger@gmail.com" class="kontaktemail">alois.heuberger@gmail.com</a>
-     </td>
-    </tr>
-    <tr>
-     <td colspan="2" class="lauftext">Schriftführer</td>
-    </tr>
-    </tbody>
-   </table><!-- R:0.010648965835571  --></td>
- </tr>
- <tr>
-  <td valign="top">
-   <!-- cacheInfo : 0120cb21b3e99e2b2a3fcda434c4f028 -->
-   <table cellpadding="0" cellspacing="0" border="0" summary="">
-    <tbody>
-    <tr>
-     <td valign="top" class="lauftext">
-      <table cellpadding="0" cellspacing="0" border="0" summary="">
-       <tbody>
-       <tr>
-        <td width="217" class="kontaktimage" align="center" valign="middle">
-         <img src="https://br-richard.github.io/images/albus/Nikolic_15.jpg" alt="Mikica NIKOLIC" border="0">
-        </td>
-       </tr>
-       </tbody>
-      </table>
-     </td>
-     <td valign="top" class="lauftext" width="217">
-      
-      <span class="kontaktname">Herr Mikica NIKOLIC </span><br>
-      <span class="kontaktfunktion">BR</span><br>
-      <br>Peter-Pfenninger-Straße 35/11<br>
-      5020 Salzburg
-      <br>Tel.: +43-660 318 69 30
-      <br><a href="mailto:nikolicmikica558@gmail.com" class="kontaktemail">nikolicmikica558@gmail.com</a>
-     </td>
-    </tr>
-    </tbody>
-   </table><!-- R:0.011760950088501  --></td>
- </tr>
- </tbody>
-</table>
+<table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td valign="top" class="lauftext"><table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td width="217" class="kontaktimage" align="center" valign="middle"><img alt="Adolf STÜBLO" border="0" src="https://br-richard.github.io/images/albus/Stueblo_15.jpg" /></td></tr></tbody></table></td><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Adolf ST&Uuml;BLO </span><br /><span class="kontaktfunktion">Vorsitzender Stellvertreter</span><br /><br />Kirchst&auml;ttstra&szlig;e 4<br />5162 Obertrum<br />Tel.: +43-664 384 10 59<br /><a class="kontaktemail" href="mailto:adolf.stueblo@gmx.at">adolf.stueblo@gmx.at</a></td></tr><tr></tr></tbody></table><!--base32-4193mc1e60rk2dtt68w3je1h6ww32c1h40g0-base32--> |
+| <!--base32-41hp2rv8cn4pwtkf40x20e9n6xj3cd9hcmtpccb6ccvp8tb26mwkgc356cukac9nc5k30t9h40-base32-->
+
+<table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td valign="top" class="lauftext"><table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td width="217" class="kontaktimage" align="center" valign="middle"><img alt="Karl Georg KELEMEN" border="0" src="https://br-richard.github.io/images/albus/Kelemen_15.jpg" /></td></tr></tbody></table></td><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Karl Georg KELEMEN </span><br /><span class="kontaktfunktion">Kassier</span><br /><br />Ernst - Mach-Stra&szlig;e 26<br />5023 Salzburg<br />Tel.: +43-650 761 99 98<br />Fax.: 0662 43 42 21<br /><a class="kontaktemail" href="mailto:sbg-benzinbruder@gmx.at">sbg-benzinbruder@gmx.at</a></td></tr></tbody></table><!--base32-4193mc1e60rk0dtt6mrk2dhm68u3adhh40g0-base32--> |
+| <!--base32-41hp2rv8cn4pwtkf40x20tk2chk36t1pcnjp6c9gcgr64thj6ngkge34c5j34ctk68tkcrb640-base32-->
+
+<table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td valign="top" class="lauftext"><table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td width="217" class="kontaktimage" align="center" valign="middle"><img alt="Alois HEUBERGER" border="0" src="https://br-richard.github.io/images/albus/Heuberger_15.jpg" /></td></tr></tbody></table></td><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Alois HEUBERGER </span><br /><span class="kontaktfunktion">BR</span><br /><br />Watzmannstra&szlig;e 13<br />83278 Traunstein<br />Tel.: +43-650 941 67 18<br /><a class="kontaktemail" href="mailto:alois.heuberger@gmail.com">alois.heuberger@gmail.com</a></td></tr><tr><td colspan="2" class="lauftext">Schriftf&uuml;hrer</td></tr></tbody></table><!--base32-4193mc1e60rk0dhm70wkcd9r6cukadth40g0-base32--> |
+| <!--base32-41hp2rv8cn4pwtkf40x20c1h68r66rhj65h36t9t75jk4rhjc4tpcrv4c4u36d336hk30chr40-base32-->
+
+<table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td valign="top" class="lauftext"><table cellpadding="0" cellspacing="0" border="0" summary=""><tbody><tr><td width="217" class="kontaktimage" align="center" valign="middle"><img alt="Mikica NIKOLIC" border="0" src="https://br-richard.github.io/images/albus/Nikolic_15.jpg" /></td></tr></tbody></table></td><td valign="top" class="lauftext" width="217"><span class="kontaktname">Herr Mikica NIKOLIC </span><br /><span class="kontaktfunktion">BR</span><br /><br />Peter-Pfenninger-Stra&szlig;e 35/11<br />5020 Salzburg<br />Tel.: +43-660 318 69 30<br /><a class="kontaktemail" href="mailto:nikolicmikica558@gmail.com">nikolicmikica558@gmail.com</a></td></tr></tbody></table><!--base32-4193mc1e60rk2dtp60wkac1g70w3ac1h40g0-base32--> |
+
 {% include links.html %}

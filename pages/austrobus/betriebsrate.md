@@ -1,10 +1,11 @@
 ---
 title: Betriebsräte
+permalink: unsere_betriebe/austrobus/betriebsrate.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: unsere_betriebe/austrobus/betriebsrate.html
 folder: austrobus
 ---
+
 <table cellpadding="0" cellspacing="0" border="0" summary="">
 <tbody><tr>
      <td valign="top">

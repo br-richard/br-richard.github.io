@@ -1,8 +1,8 @@
 ---
 title: Berufsschutz
+permalink: berufsschutz/berufsschutz.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: berufsschutz/berufsschutz.html
 folder: berufsschutz
 ---
 

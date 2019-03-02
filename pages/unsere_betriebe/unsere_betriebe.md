@@ -1,8 +1,8 @@
 ---
 title: Unsere Betriebe
+permalink: unsere_betriebe/unsere_betriebe.html
 last_updated: September 30, 2018
 sidebar: admin_sidebar
-permalink: unsere_betriebe/unsere_betriebe.html
 folder: unsere_betriebe
 ---
 

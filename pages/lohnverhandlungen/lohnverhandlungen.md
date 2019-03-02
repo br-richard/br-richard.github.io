@@ -1,8 +1,8 @@
 ---
 title: Lohnverhandlungen
+permalink: lohnverhandlungen/lohnverhandlungen.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: lohnverhandlungen/lohnverhandlungen.html
 folder: lohnverhandlungen
 ---
 

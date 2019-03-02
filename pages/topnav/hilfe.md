@@ -1,8 +1,8 @@
 ---
 title: Hilfe
+permalink: hilfe.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: hilfe.html
 folder: topnav
 ---
 

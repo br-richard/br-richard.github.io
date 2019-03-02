@@ -1,8 +1,8 @@
 ---
 title: Berufskraftfahrer
+permalink: berufskraftfahrer/berufskraftfahrer.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: berufskraftfahrer/berufskraftfahrer.html
 folder: berufskraftfahrer
 ---
 

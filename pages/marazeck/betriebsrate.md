@@ -1,8 +1,8 @@
 ---
 title: Betriebsräte
+permalink: unsere_betriebe/marazeck/betriebsrate.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: unsere_betriebe/marazeck/betriebsrate.html
 folder: marazeck
 ---
 

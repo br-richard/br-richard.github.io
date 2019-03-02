@@ -1,8 +1,9 @@
 ---
 title: Startseite
-sidebar: admin_sidebar
 permalink: index.html
+sidebar: admin_sidebar
 ---
+
 <div class="post-content">
     <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
         <tbody>

@@ -1,8 +1,8 @@
 ---
 title: Konzernbetriebsrat
+permalink: konzernbetriebsrat/konzernbetriebsrat.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: konzernbetriebsrat/konzernbetriebsrat.html
 folder: konzernbetriebsrat
 ---
 

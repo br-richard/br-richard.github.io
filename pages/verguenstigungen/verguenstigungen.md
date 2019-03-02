@@ -1,8 +1,8 @@
 ---
 title: Vergünstigungen
+permalink: verguenstigungen/verguenstigungen.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: verguenstigungen/verguenstigungen.html
 folder: verguenstigungen
 ---
 

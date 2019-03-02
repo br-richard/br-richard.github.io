@@ -1,8 +1,8 @@
 ---
 title: Kontakt
+permalink: kontakt.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: kontakt.html
 folder: topnav
 ---
 

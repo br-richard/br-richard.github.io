@@ -1,8 +1,8 @@
 ---
 title: Einsatz-Ruhezeiten
+permalink: einsatz-ruhezeiten/einsatz-ruhezeiten.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: einsatz-ruhezeiten/einsatz-ruhezeiten.html
 folder: einsatz-ruhezeiten
 ---
 

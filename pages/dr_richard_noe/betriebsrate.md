@@ -1,8 +1,8 @@
 ---
 title: Betriebsräte
+permalink: unsere_betriebe/dr_richard_noe/betriebsrate.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: unsere_betriebe/dr_richard_noe/betriebsrate.html
 folder: dr_richard_noe
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Altersstruktur
+permalink: altersstruktur/altersstruktur.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: altersstruktur/altersstruktur.html
 folder: altersstruktur
 ---
-
 
 <tbody>
 <tr>

@@ -1,8 +1,8 @@
 ---
 title: Unfallgefahr
+permalink: unfallgefahr/unfallgefahr.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: unfallgefahr/unfallgefahr.html
 folder: unfallgefahr
 ---
 

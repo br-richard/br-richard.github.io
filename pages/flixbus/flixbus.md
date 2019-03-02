@@ -1,8 +1,8 @@
 ---
 title: Flixbus
+permalink: flixbus/flixbus.html
 last_updated: September 10, 2018
 sidebar: admin_sidebar
-permalink: flixbus/flixbus.html
 folder: flixbus
 ---
 

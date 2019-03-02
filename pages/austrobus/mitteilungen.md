@@ -6,4 +6,4 @@ sidebar: admin_sidebar
 folder: austrobus
 ---
 
-Keine aktuellen Mitteilungen vorhanden.
+Derzeit gibt es keine neuen Mitteilungen.

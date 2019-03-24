@@ -78,3 +78,7 @@ folder: albus
     </td>
   </tr>
 </tbody></table>
+
+Test
+
+<table><tr><td></td></tr></table>

@@ -27,14 +27,6 @@ folder: weiterbildung
                 <div class="articlefooter">Autor: <span class="articlefooternamedate">BR</span>&nbsp;</div>
             </td>
         </tr>
-        <tr>
-            <td align="center" valign="middle" width="100%" class="popupimagebox">
-                <img alt="Gesundheit geht JEDEN an, klicke den Link" src="https://br-richard.github.io/images/index/Rettungsauto.gif" border="0">
-            </td>
-        </tr>
-        <tr>
-            <td valign="middle" class="lauftext">Gesundheit geht JEDEN an, klicke den Link "Gesundheit" an</td>
-        </tr>
         <tr width="450">
             <td valign="top" class="articleleftcolumn">
                 <img src="https://br-richard.github.io/images/index/Europa.jpeg" alt="" border="0"><br>

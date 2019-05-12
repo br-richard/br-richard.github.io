@@ -6,9 +6,7 @@ sidebar: admin_sidebar
 folder: weiterbildung
 ---
 
-<table cellpadding="0" cellspacing="0" border="0" summary="" width="450"><tbody><tr width="450"><td valign="top" class="articleleftcolumn"><img alt="" border="0" src="https://br-richard.github.io/images/weiterbildung/schule_01.1.gif" /></td><td class="article" valign="top"><!--base32-40y6gc9yaxjpjx35e9h6jv34enq6ewvmcnt6uubecmy2yu1h7rg0-base32--><h3>Die vom Gesetzgeber vorgeschriebenen Module finden in der Firme, Stromstra&szlig;e 11, 1200 Wien im Schulungsraum statt.Beginn ist jeweils um 8 Uhr.</h3><hr size="1" noshade="sure" /><p>Termine f&uuml;r die Weiterbildung:<br /><br />Tg, Datum: - Modul<br />&nbsp;</p><p>&nbsp;</p><p><br /><br />Sobald neue Termine bekannt sind, sind sie auf dieser Seite ersichtlich!<br /><br />Die Fahrdienstleitung wird jene Mitarbeiter die rechtzeitig Interesse an einer Teilnahme bekunden, soweit m&ouml;glich die notwendige Freizeit in Form von Urlaubstagen oder freien Tagen gew&auml;hren.<br />Melden Sie sich daher bitte rechtzeitig in der Fahrdienstleitung an. Die Teilnehmerzahl pro Kurs ist limitiert. Die Anmeldungen werden nach dem Zeitpunkt des Einlangens der verbindlichen Anmeldung ber&uuml;cksichtigt.<br />Anmeldung beim der Fahrdienstleitung!</p></td></tr></tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
-        <tbody>
+<table cellpadding="0" cellspacing="0" border="0" summary="" width="450"><tbody><tr width="450"><td valign="top" class="articleleftcolumn"><img alt="" border="0" src="https://br-richard.github.io/images/weiterbildung/schule_01.1.gif" /></td><td class="article" valign="top"><!--base32-40y6gc9yaxjpjx35e9h6jv34enq6ewvmcnt6uubecmy2yu1h7rg0-base32--><h3>Die vom Gesetzgeber vorgeschriebenen Module finden in der Firme, Stromstra&szlig;e 11, 1200 Wien im Schulungsraum statt.Beginn ist jeweils um 8 Uhr.</h3><hr size="1" noshade="sure" /><p>Termine f&uuml;r die Weiterbildung:<br /><br />Tg, Datum: - Modul<br />&nbsp;</p><p>&nbsp;</p><p><br /><br />Sobald neue Termine bekannt sind, sind sie auf dieser Seite ersichtlich!<br /><br />Die Fahrdienstleitung wird jene Mitarbeiter die rechtzeitig Interesse an einer Teilnahme bekunden, soweit m&ouml;glich die notwendige Freizeit in Form von Urlaubstagen oder freien Tagen gew&auml;hren.<br />Melden Sie sich daher bitte rechtzeitig in der Fahrdienstleitung an. Die Teilnehmerzahl pro Kurs ist limitiert. Die Anmeldungen werden nach dem Zeitpunkt des Einlangens der verbindlichen Anmeldung ber&uuml;cksichtigt.<br />Anmeldung beim der Fahrdienstleitung!</p></td></tr>
         <tr width="450">
             <td valign="top" class="articleleftcolumn">
                 <img src="https://br-richard.github.io/images/index/schule_04.gif" alt="" border="0"><br>
@@ -29,10 +27,6 @@ folder: weiterbildung
                 <div class="articlefooter">Autor: <span class="articlefooternamedate">BR</span>&nbsp;</div>
             </td>
         </tr>
-        </tbody>
-    </table>
-    <table width="100%" summary="" border="0" cellspacing="0" cellpadding="0">
-        <tbody>
         <tr>
             <td align="center" valign="middle" width="100%" class="popupimagebox">
                 <img alt="Gesundheit geht JEDEN an, klicke den Link" src="https://br-richard.github.io/images/index/Rettungsauto.gif" border="0">
@@ -41,10 +35,6 @@ folder: weiterbildung
         <tr>
             <td valign="middle" class="lauftext">Gesundheit geht JEDEN an, klicke den Link "Gesundheit" an</td>
         </tr>
-        </tbody>
-    </table>
-    <table cellpadding="0" cellspacing="0" border="0" summary="" width="450">
-        <tbody>
         <tr width="450">
             <td valign="top" class="articleleftcolumn">
                 <img src="https://br-richard.github.io/images/index/Europa.jpeg" alt="" border="0"><br>
